@@ -259,7 +259,8 @@ def create_dark_mode_friendly_plot(fig):
         legend_font=dict(color="#E0E0E0"),  # Light gray legend text
         coloraxis_colorbar=dict(
             tickfont=dict(color="#E0E0E0"),  # Light gray colorbar ticks
-            title_text=dict(color="#90CAF9")  # Light blue colorbar title
+            title_text="Percentage (%)",  # Title text as string
+            title_font=dict(color="#90CAF9")  # Light blue title font
         ),
         margin=dict(t=50, l=50, r=30, b=50),  # Better margins
     )
