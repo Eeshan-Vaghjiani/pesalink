@@ -15,7 +15,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "37284500860",
@@ -33,7 +36,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "4596830977",
@@ -51,7 +57,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "304783414552",
@@ -69,7 +78,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "941304716626",
@@ -87,7 +99,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "2967677504",
@@ -105,7 +120,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "Equity Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "774094549226",
@@ -123,7 +141,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "Co-operative Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "831281215893",
@@ -141,7 +162,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "70315143076",
@@ -159,7 +183,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "8129729125",
@@ -177,7 +204,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "409018729358",
@@ -195,7 +225,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Equity Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "0104670754",
@@ -213,7 +246,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "941592896515",
@@ -231,7 +267,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "5059686784",
@@ -249,7 +288,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "3944597468",
@@ -267,7 +309,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "Co-operative Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "16537532324",
@@ -285,7 +330,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "855033162151",
@@ -303,7 +351,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "134683850806",
@@ -321,7 +372,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "231008200272",
@@ -339,7 +393,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "890143931533",
@@ -357,7 +414,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "295042954898",
@@ -375,7 +435,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "065293274656",
@@ -393,7 +456,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "870941065252",
@@ -411,7 +477,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "784328512927",
@@ -429,7 +498,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "08717530087",
@@ -447,7 +519,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6739697949",
@@ -465,7 +540,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "0600839780",
@@ -483,7 +561,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Equity Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "391708610160",
@@ -501,7 +582,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "891764934169",
@@ -519,7 +603,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "9782646310",
@@ -537,7 +624,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "8014650788",
@@ -555,7 +645,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "34072279389",
@@ -573,7 +666,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "5441811691",
@@ -591,7 +687,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "704452642086",
@@ -609,7 +708,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "2796217669",
@@ -627,7 +729,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6974461522",
@@ -645,7 +750,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "11931079154",
@@ -663,7 +771,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "Equity Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "8925655321",
@@ -681,7 +792,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "2099273060",
@@ -699,7 +813,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Equity Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "740043855874",
@@ -717,7 +834,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6729546920",
@@ -735,7 +855,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Co-operative Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "52443166795",
@@ -753,7 +876,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "64335983389",
@@ -771,7 +897,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "415541605521",
@@ -789,7 +918,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "97835864736",
@@ -807,7 +939,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "068232772112",
@@ -825,7 +960,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "792767068959",
@@ -843,7 +981,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "591953010580",
@@ -861,7 +1002,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "086696067",
@@ -879,7 +1023,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "9958665592",
@@ -897,7 +1044,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "0333262634",
@@ -915,7 +1065,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Co-operative Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6895169222",
@@ -933,7 +1086,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Equity Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "1626427024",
@@ -951,7 +1107,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "8300795757",
@@ -969,7 +1128,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "809759029813",
@@ -987,7 +1149,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "139588502815",
@@ -1005,7 +1170,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "30165246313",
@@ -1023,7 +1191,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "30520836769",
@@ -1041,7 +1212,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "52525175632",
@@ -1059,7 +1233,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "4900356176",
@@ -1077,7 +1254,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "7421689294",
@@ -1095,7 +1275,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "663767727033",
@@ -1113,7 +1296,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "92559417069",
@@ -1131,7 +1317,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "48341147833",
@@ -1149,7 +1338,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "345925171",
@@ -1167,7 +1359,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "65935472866",
@@ -1185,7 +1380,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "9010634385",
@@ -1203,7 +1401,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "1518384847",
@@ -1221,7 +1422,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "3269815370",
@@ -1239,7 +1443,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Co-operative Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "770538437425",
@@ -1257,7 +1464,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "0474808557",
@@ -1275,7 +1485,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "22315449897",
@@ -1293,7 +1506,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "07213904028",
@@ -1311,7 +1527,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "4795981369",
@@ -1329,7 +1548,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "24678577992",
@@ -1347,7 +1569,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "649780810190",
@@ -1365,7 +1590,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "353192681455",
@@ -1383,7 +1611,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "4087141190",
@@ -1401,7 +1632,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Co-operative Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "17962061930",
@@ -1419,7 +1653,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Equity Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "15942310267",
@@ -1437,7 +1674,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "947557614938",
@@ -1455,7 +1695,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "Co-operative Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "465069146065",
@@ -1473,7 +1716,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "67891816249",
@@ -1491,7 +1737,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "0052911566",
@@ -1509,7 +1758,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "Equity Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "712549679232",
@@ -1527,7 +1779,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "8136160478",
@@ -1545,7 +1800,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "479656886287",
@@ -1563,7 +1821,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "7461028555",
@@ -1581,7 +1842,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "0697242710",
@@ -1599,7 +1863,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Co-operative Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "359522656480",
@@ -1617,7 +1884,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "9283129081",
@@ -1635,7 +1905,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "5597966992",
@@ -1653,7 +1926,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "14884337862",
@@ -1671,7 +1947,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "9047327792",
@@ -1689,7 +1968,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Equity Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "65648785411",
@@ -1707,7 +1989,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "93559283260",
@@ -1725,7 +2010,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6650643067",
@@ -1743,7 +2031,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "528606513374",
@@ -1761,7 +2052,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "Equity Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "2374435273",
@@ -1779,7 +2073,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "217814161352",
@@ -1797,7 +2094,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "80095169608",
@@ -1815,7 +2115,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "521810650939",
@@ -1833,7 +2136,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "81079833661",
@@ -1851,7 +2157,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "88614806842",
@@ -1869,7 +2178,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "051327597416",
@@ -1887,7 +2199,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "460898658202",
@@ -1905,7 +2220,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "8026269327",
@@ -1923,7 +2241,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "930338378611",
@@ -1941,7 +2262,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "35626970042",
@@ -1959,7 +2283,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Equity Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "292879800656",
@@ -1977,7 +2304,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "175169685386",
@@ -1995,7 +2325,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "648457199328",
@@ -2013,7 +2346,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "768235724689",
@@ -2031,7 +2367,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6697354645",
@@ -2049,7 +2388,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "263311822995",
@@ -2067,7 +2409,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "716325795283",
@@ -2085,7 +2430,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "3272407975",
@@ -2103,7 +2451,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "87481820014",
@@ -2121,7 +2472,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "0703844788",
@@ -2139,7 +2493,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "4178876061",
@@ -2157,7 +2514,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "4113602521",
@@ -2175,7 +2535,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "2377166365",
@@ -2193,7 +2556,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "5825992864",
@@ -2211,7 +2577,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "895130540647",
@@ -2229,7 +2598,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "908646637936",
@@ -2247,7 +2619,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "175286846102",
@@ -2265,7 +2640,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "62111150802",
@@ -2283,7 +2661,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "728034427044",
@@ -2301,7 +2682,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "909850770076",
@@ -2319,7 +2703,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "14369169028",
@@ -2337,7 +2724,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "964524461890",
@@ -2355,7 +2745,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "96269527017",
@@ -2373,7 +2766,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "50310610208",
@@ -2391,7 +2787,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "69338507355",
@@ -2409,7 +2808,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "0369290509",
@@ -2427,7 +2829,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6839185584",
@@ -2445,7 +2850,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "527518430107",
@@ -2463,7 +2871,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "7456242758",
@@ -2481,7 +2892,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "45805694494",
@@ -2499,7 +2913,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "935945257045",
@@ -2517,7 +2934,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "44529069433",
@@ -2535,7 +2955,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "816399130921",
@@ -2553,7 +2976,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "539643911416",
@@ -2571,7 +2997,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "DTB",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "2116316725",
@@ -2589,7 +3018,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "601721954678",
@@ -2607,7 +3039,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "605674466301",
@@ -2625,7 +3060,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "627799618628",
@@ -2643,7 +3081,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Equity Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "893279218374",
@@ -2661,7 +3102,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "68166757009",
@@ -2679,7 +3123,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "7787965978",
@@ -2697,7 +3144,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "2372777401",
@@ -2715,7 +3165,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "15324692548",
@@ -2733,7 +3186,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "3766827535",
@@ -2751,7 +3207,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "1902314414",
@@ -2769,7 +3228,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "35050496950",
@@ -2787,7 +3249,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "NCBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "0427646054",
@@ -2805,7 +3270,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "KCB Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "15178986711",
@@ -2823,7 +3291,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "956724876319",
@@ -2841,7 +3312,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "422134174620",
@@ -2859,7 +3333,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "93255417679",
@@ -2877,7 +3354,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "271561285405",
@@ -2895,7 +3375,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "521013138494",
@@ -2913,7 +3396,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "Equity Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "05346898405",
@@ -2931,7 +3417,10 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "UBA Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "031441835520",
@@ -2949,7 +3438,10 @@
       "accountHolderName": "Jane Johnson",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "1853669581",
@@ -2967,7 +3459,10 @@
       "accountHolderName": "Emily Davis",
       "bankName": "Gt Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "037839630578",
@@ -2985,7 +3480,10 @@
       "accountHolderName": "Olivia Taylor",
       "bankName": "Co-operative Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "2699334882",
@@ -3003,7 +3501,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Stanbic Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "486569478507",
@@ -3021,7 +3522,10 @@
       "accountHolderName": "Sarah Jones",
       "bankName": "Family Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "49819164955",
@@ -3039,6 +3543,9 @@
       "accountHolderName": "Emma Wilson",
       "bankName": "National Bank",
       "currency": "USD"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   }
 ]

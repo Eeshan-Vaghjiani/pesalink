@@ -166,31 +166,48 @@ def load_prediction_model():
         return None
 
 def extract_features(account_number, bank_code):
-    """Extract features for prediction from account number and bank code"""
+    """Extract features from account number and bank code for ML prediction"""
     features = {}
     
-    # Basic account features
-    features['account_length'] = len(str(account_number))
-    features['first_digit'] = int(str(account_number)[0]) if len(str(account_number)) > 0 else 0
-    features['last_digit'] = int(str(account_number)[-1]) if len(str(account_number)) > 0 else 0
+    # Convert account_number to string and clean non-numeric characters
+    account_str = str(account_number)
+    clean_account = ''.join(c for c in account_str if c.isdigit())
     
-    # Bank code features
-    features['bank_code'] = int(bank_code)
+    # Use a default if no digits were found
+    if not clean_account:
+        clean_account = '0'
+    
+    # Basic account features
+    features['account_length'] = len(account_str)
+    features['first_digit'] = int(clean_account[0]) if len(clean_account) > 0 else 0
+    features['last_digit'] = int(clean_account[-1]) if len(clean_account) > 0 else 0
+    
+    # Bank code features - ensure it's numeric
+    try:
+        features['bank_code'] = int(bank_code)
+    except (ValueError, TypeError):
+        features['bank_code'] = 0
     
     # Account number patterns
-    features['account_sum_digits'] = sum(int(d) for d in str(account_number) if d.isdigit())
-    features['account_num_digits'] = sum(1 for d in str(account_number) if d.isdigit())
+    features['account_sum_digits'] = sum(int(d) for d in account_str if d.isdigit())
+    features['account_num_digits'] = sum(1 for d in account_str if d.isdigit())
     
     # Pattern: Number of consecutive zeros
-    features['consecutive_zeros'] = max([len(s) for s in str(account_number).split('0') if s == ''] or [0])
+    features['consecutive_zeros'] = max([len(s) for s in account_str.split('0') if s == ''] or [0])
     
     # Pattern: Digit frequency variation
-    digit_counts = {d: str(account_number).count(d) for d in '0123456789' if d in str(account_number)}
+    digit_counts = {d: account_str.count(d) for d in '0123456789' if d in account_str}
     features['digit_variance'] = np.var(list(digit_counts.values())) if digit_counts else 0
     
     # Position-based features
     for pos in range(min(4, features['account_length'])):
-        features[f'digit_pos_{pos}'] = int(str(account_number)[pos]) if len(str(account_number)) > pos else -1
+        try:
+            if pos < len(account_str) and account_str[pos].isdigit():
+                features[f'digit_pos_{pos}'] = int(account_str[pos])
+            else:
+                features[f'digit_pos_{pos}'] = -1
+        except (IndexError, ValueError):
+            features[f'digit_pos_{pos}'] = -1
     
     return features
 

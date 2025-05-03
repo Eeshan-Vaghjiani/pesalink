@@ -5,7 +5,7 @@
   "failed": 834,
   "successRate": "16.60%",
   "validStructureRate": "63.80%",
-  "processingTimeSeconds": 198,
+  "processingTimeSeconds": 197,
   "httpStatusCounts": {
     "200": 638,
     "400": 51,
@@ -29,5 +29,8 @@
   "dormantRate": "16.90%",
   "postNoCreditRate": "15.60%",
   "invalidRate": "14.70%",
-  "errorRate": "36.20%"
+  "errorRate": "36.20%",
+  "ml_prediction_accuracy": "0.00%",
+  "ml_predictions_correct": 0,
+  "ml_predictions_total": 1000
 }

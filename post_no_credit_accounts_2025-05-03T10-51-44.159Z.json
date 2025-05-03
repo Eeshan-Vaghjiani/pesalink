@@ -15,7 +15,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Co-operative Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "55641330809",
@@ -33,7 +36,10 @@
       "accountHolderName": "David Miller",
       "bankName": "NCBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "123149799803",
@@ -51,7 +57,10 @@
       "accountHolderName": "David Miller",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "26607037833",
@@ -69,7 +78,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Equity Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "8109388721",
@@ -87,7 +99,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "751500496977",
@@ -105,7 +120,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Equity Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "787561267664",
@@ -123,7 +141,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "00769464935",
@@ -141,7 +162,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "NCBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "935779565234",
@@ -159,7 +183,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "15919430210",
@@ -177,7 +204,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "UBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "18722844242",
@@ -195,7 +225,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "446509742319",
@@ -213,7 +246,10 @@
       "accountHolderName": "John Smith",
       "bankName": "KCB Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "532819692082",
@@ -231,7 +267,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "294437212067",
@@ -249,7 +288,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "NCBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "069521456277",
@@ -267,7 +309,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Co-operative Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "372432216829",
@@ -285,7 +330,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "33216729459",
@@ -303,7 +351,10 @@
       "accountHolderName": "John Smith",
       "bankName": "KCB Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "65597207897",
@@ -321,7 +372,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "NCBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "49659382053",
@@ -339,7 +393,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Equity Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "05073266461",
@@ -357,7 +414,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "248465692007",
@@ -375,7 +435,10 @@
       "accountHolderName": "John Smith",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "421309092458",
@@ -393,7 +456,10 @@
       "accountHolderName": "John Smith",
       "bankName": "National Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "8705530149",
@@ -411,7 +477,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Equity Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "80520352005",
@@ -429,7 +498,10 @@
       "accountHolderName": "David Miller",
       "bankName": "KCB Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "497111508579",
@@ -447,7 +519,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Co-operative Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "921705150997",
@@ -465,7 +540,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6834491965",
@@ -483,7 +561,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "39812689439",
@@ -501,7 +582,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "596550047769",
@@ -519,7 +603,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Co-operative Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "154934080255",
@@ -537,7 +624,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "7893810515",
@@ -555,7 +645,10 @@
       "accountHolderName": "James Moore",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "19006572371",
@@ -573,7 +666,10 @@
       "accountHolderName": "James Moore",
       "bankName": "NCBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "80859507914",
@@ -591,7 +687,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "4572750016",
@@ -609,7 +708,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "25546615329",
@@ -627,7 +729,10 @@
       "accountHolderName": "John Smith",
       "bankName": "KCB Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "178755613349",
@@ -645,7 +750,10 @@
       "accountHolderName": "David Miller",
       "bankName": "NCBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6741689487",
@@ -663,7 +771,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Co-operative Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "43117163110",
@@ -681,7 +792,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "76112039378",
@@ -699,7 +813,10 @@
       "accountHolderName": "John Smith",
       "bankName": "National Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "9821081342",
@@ -717,7 +834,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "National Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "789066971696",
@@ -735,7 +855,10 @@
       "accountHolderName": "James Moore",
       "bankName": "UBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "17845050315",
@@ -753,7 +876,10 @@
       "accountHolderName": "David Miller",
       "bankName": "KCB Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "52104261027",
@@ -771,7 +897,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Equity Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "887481529365",
@@ -789,7 +918,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Co-operative Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "50716606",
@@ -807,7 +939,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "2385452602",
@@ -825,7 +960,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "3395711471",
@@ -843,7 +981,10 @@
       "accountHolderName": "James Moore",
       "bankName": "NCBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "4912305589",
@@ -861,7 +1002,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "11614821065",
@@ -879,7 +1023,10 @@
       "accountHolderName": "James Moore",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "74602609388",
@@ -897,7 +1044,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "9528729809",
@@ -915,7 +1065,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "0385319995",
@@ -933,7 +1086,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "11659090316",
@@ -951,7 +1107,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "271766511824",
@@ -969,7 +1128,10 @@
       "accountHolderName": "David Miller",
       "bankName": "National Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "39227934631",
@@ -987,7 +1149,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6126457235",
@@ -1005,7 +1170,10 @@
       "accountHolderName": "James Moore",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "9602735451",
@@ -1023,7 +1191,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "Equity Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "1371626457",
@@ -1041,7 +1212,10 @@
       "accountHolderName": "James Moore",
       "bankName": "KCB Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "1893567434",
@@ -1059,7 +1233,10 @@
       "accountHolderName": "David Miller",
       "bankName": "UBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "01286315569",
@@ -1077,7 +1254,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "38651469765",
@@ -1095,7 +1275,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Equity Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "0285899915",
@@ -1113,7 +1296,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "NCBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "2992531672",
@@ -1131,7 +1317,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "612136192196",
@@ -1149,7 +1338,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "35795162510",
@@ -1167,7 +1359,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "743950038897",
@@ -1185,7 +1380,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Equity Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "95187904748",
@@ -1203,7 +1401,10 @@
       "accountHolderName": "John Smith",
       "bankName": "UBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "38585404289",
@@ -1221,7 +1422,10 @@
       "accountHolderName": "David Miller",
       "bankName": "NCBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "57034837917",
@@ -1239,7 +1443,10 @@
       "accountHolderName": "James Moore",
       "bankName": "KCB Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "62984162097",
@@ -1257,7 +1464,10 @@
       "accountHolderName": "James Moore",
       "bankName": "KCB Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "9483277502",
@@ -1275,7 +1485,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "048452194094",
@@ -1293,7 +1506,10 @@
       "accountHolderName": "David Miller",
       "bankName": "UBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "48882217828",
@@ -1311,7 +1527,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "8954329671",
@@ -1329,7 +1548,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Co-operative Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "9207062744",
@@ -1347,7 +1569,10 @@
       "accountHolderName": "David Miller",
       "bankName": "UBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "1119260270",
@@ -1365,7 +1590,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "24421782238",
@@ -1383,7 +1611,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "4464769286",
@@ -1401,7 +1632,10 @@
       "accountHolderName": "James Moore",
       "bankName": "National Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6739353425",
@@ -1419,7 +1653,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "NCBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "85116453626",
@@ -1437,7 +1674,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6932149396",
@@ -1455,7 +1695,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "4345427571",
@@ -1473,7 +1716,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "KCB Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "47280329948",
@@ -1491,7 +1737,10 @@
       "accountHolderName": "John Smith",
       "bankName": "National Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "89918574357",
@@ -1509,7 +1758,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Equity Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6673738431",
@@ -1527,7 +1779,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Co-operative Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "69243185565",
@@ -1545,7 +1800,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Equity Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "010983722809",
@@ -1563,7 +1821,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "0906915621",
@@ -1581,7 +1842,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "Equity Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "588687122451",
@@ -1599,7 +1863,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "Equity Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6986705577",
@@ -1617,7 +1884,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Equity Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "3657185930",
@@ -1635,7 +1905,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "1136139926",
@@ -1653,7 +1926,10 @@
       "accountHolderName": "James Moore",
       "bankName": "National Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "13165823007",
@@ -1671,7 +1947,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Equity Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "9460315532",
@@ -1689,7 +1968,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "179571398630",
@@ -1707,7 +1989,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "National Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "9987254926",
@@ -1725,7 +2010,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "47241610070",
@@ -1743,7 +2031,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "4269460442",
@@ -1761,7 +2052,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "National Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "255903567",
@@ -1779,7 +2073,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Co-operative Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "97666046385",
@@ -1797,7 +2094,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Co-operative Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "339652865751",
@@ -1815,7 +2115,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "KCB Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "03851236757",
@@ -1833,7 +2136,10 @@
       "accountHolderName": "John Smith",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "72585416495",
@@ -1851,7 +2157,10 @@
       "accountHolderName": "James Moore",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "34561569542",
@@ -1869,7 +2178,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "National Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "096599494070",
@@ -1887,7 +2199,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "National Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "836013951861",
@@ -1905,7 +2220,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "KCB Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "250208215245",
@@ -1923,7 +2241,10 @@
       "accountHolderName": "David Miller",
       "bankName": "KCB Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "3170622466",
@@ -1941,7 +2262,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "2199971474",
@@ -1959,7 +2283,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "12339689282",
@@ -1977,7 +2304,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "National Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "933123289877",
@@ -1995,7 +2325,10 @@
       "accountHolderName": "John Smith",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "227247443408",
@@ -2013,7 +2346,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "356493436742",
@@ -2031,7 +2367,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "425490649395",
@@ -2049,7 +2388,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Co-operative Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "4246116957",
@@ -2067,7 +2409,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Co-operative Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "84510861244",
@@ -2085,7 +2430,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "5393438924",
@@ -2103,7 +2451,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "154919744747",
@@ -2121,7 +2472,10 @@
       "accountHolderName": "John Smith",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "07994825291",
@@ -2139,7 +2493,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "77159692454",
@@ -2157,7 +2514,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6262705148",
@@ -2175,7 +2535,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "06174581690",
@@ -2193,7 +2556,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "UBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "13278275180",
@@ -2211,7 +2577,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "157348253612",
@@ -2229,7 +2598,10 @@
       "accountHolderName": "David Miller",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "34907340734",
@@ -2247,7 +2619,10 @@
       "accountHolderName": "David Miller",
       "bankName": "UBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "822106097541",
@@ -2265,7 +2640,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "KCB Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "50266369700",
@@ -2283,7 +2661,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "National Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "957982989506",
@@ -2301,7 +2682,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "9661422172",
@@ -2319,7 +2703,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "48233545148",
@@ -2337,7 +2724,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "93657323222",
@@ -2355,7 +2745,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "UBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "685600789010",
@@ -2373,7 +2766,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "5141670257",
@@ -2391,7 +2787,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "NCBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "51334360808",
@@ -2409,7 +2808,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "337525515241",
@@ -2427,7 +2829,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "48793899339",
@@ -2445,7 +2850,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Co-operative Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "33392398592",
@@ -2463,7 +2871,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "UBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "057473602294",
@@ -2481,7 +2892,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "5803637699",
@@ -2499,7 +2913,10 @@
       "accountHolderName": "David Miller",
       "bankName": "NCBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "563393149473",
@@ -2517,7 +2934,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "KCB Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "50529657577",
@@ -2535,7 +2955,10 @@
       "accountHolderName": "James Moore",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "0372321911",
@@ -2553,7 +2976,10 @@
       "accountHolderName": "James Moore",
       "bankName": "NCBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "4127623496",
@@ -2571,7 +2997,10 @@
       "accountHolderName": "James Moore",
       "bankName": "UBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "34109475416",
@@ -2589,7 +3018,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Gt Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "338061909703",
@@ -2607,7 +3039,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "2005342337",
@@ -2625,7 +3060,10 @@
       "accountHolderName": "John Smith",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "457701779459",
@@ -2643,7 +3081,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "1831857861",
@@ -2661,7 +3102,10 @@
       "accountHolderName": "Robert Williams",
       "bankName": "Co-operative Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "5498948983",
@@ -2679,7 +3123,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "6563494663",
@@ -2697,7 +3144,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "Stanbic Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "75677773031",
@@ -2715,7 +3165,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "8980925831",
@@ -2733,7 +3186,10 @@
       "accountHolderName": "James Moore",
       "bankName": "NCBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "5366087066",
@@ -2751,7 +3207,10 @@
       "accountHolderName": "James Moore",
       "bankName": "National Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "80057296442",
@@ -2769,7 +3228,10 @@
       "accountHolderName": "Michael Brown",
       "bankName": "UBA Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "2476908424",
@@ -2787,7 +3249,10 @@
       "accountHolderName": "John Smith",
       "bankName": "Family Bank",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   },
   {
     "accountNumber": "86229504773",
@@ -2805,6 +3270,9 @@
       "accountHolderName": "David Miller",
       "bankName": "DTB",
       "currency": "EUR"
-    }
+    },
+    "ml_prediction": null,
+    "ml_confidence": 0,
+    "ml_prediction_correct": false
   }
 ]
