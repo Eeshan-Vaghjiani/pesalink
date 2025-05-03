@@ -259,7 +259,7 @@ def create_dark_mode_friendly_plot(fig):
         legend_font=dict(color="#E0E0E0"),  # Light gray legend text
         coloraxis_colorbar=dict(
             tickfont=dict(color="#E0E0E0"),  # Light gray colorbar ticks
-            title_font=dict(color="#90CAF9")  # Light blue colorbar title
+            title_text=dict(color="#90CAF9")  # Light blue colorbar title
         ),
         margin=dict(t=50, l=50, r=30, b=50),  # Better margins
     )
@@ -318,7 +318,7 @@ with col2:
             if node_result.returncode == 0:
                 st.success("✅ Validation completed successfully!")
                 st.code(node_result.stdout[:500] + "..." if len(node_result.stdout) > 500 else node_result.stdout)
-                else:
+            else:
                 st.error("❌ Validation failed. See error details below.")
                 st.code(node_result.stderr[:500] + "..." if len(node_result.stderr) > 500 else node_result.stderr)
         except subprocess.TimeoutExpired:
@@ -865,7 +865,7 @@ try:
                                     xaxis={'type': 'category'},  # Force categorical axis
                                     yaxis={'type': 'category'},
                                     coloraxis_colorbar=dict(
-                                        title=dict(text='Percentage (%)'),
+                                        title_text='Percentage (%)',
                                         tickfont=dict(color="#E0E0E0"),  # Light gray text
                                         title_font=dict(color="#90CAF9")  # Light blue title
                                     )
@@ -1343,7 +1343,7 @@ try:
                 # Create visualizations
                 st.metric("ML Prediction Accuracy", f"{ml_accuracy:.2f}%")
                 
-            col1, col2 = st.columns(2)
+                col1, col2 = st.columns(2)
                 
                 with col1:
                     # Create a pie chart for prediction accuracy
@@ -1532,7 +1532,7 @@ try:
                     bank_performance_table['Accuracy (%)'] = bank_performance_table['Accuracy (%)'].round(2)
                     
                     st.dataframe(bank_performance_table, use_container_width=True)
-else:
+            else:
                 st.info("No ML prediction data available in the current validation results. Run the fast ML prediction first with `python bulk_account_validator.py` then validate with `node full_validation.js --predictions <prediction_file>`")
 
             # Add a section for running predictions
