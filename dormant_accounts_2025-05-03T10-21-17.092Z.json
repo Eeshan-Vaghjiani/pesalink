@@ -1,0 +1,3044 @@
+[
+  {
+    "accountNumber": "3613488229",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "37284500860",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "4596830977",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "304783414552",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "941304716626",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "2967677504",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Equity Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Equity Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "774094549226",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Co-operative Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Co-operative Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "831281215893",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "70315143076",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "8129729125",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "409018729358",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Equity Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Equity Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "0104670754",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "941592896515",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "5059686784",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "3944597468",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Co-operative Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Co-operative Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "16537532324",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "855033162151",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "134683850806",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "231008200272",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "890143931533",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "295042954898",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "065293274656",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "870941065252",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "784328512927",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "08717530087",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "6739697949",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "0600839780",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Equity Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Equity Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "391708610160",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "891764934169",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "9782646310",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "8014650788",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "34072279389",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "5441811691",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "704452642086",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "2796217669",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "6974461522",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "11931079154",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Equity Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Equity Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "8925655321",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "2099273060",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Equity Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Equity Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "740043855874",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "6729546920",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Co-operative Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Co-operative Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "52443166795",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "64335983389",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "415541605521",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "97835864736",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "068232772112",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "792767068959",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "591953010580",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "086696067",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "9958665592",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "0333262634",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Co-operative Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Co-operative Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "6895169222",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Equity Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Equity Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "1626427024",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "8300795757",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "809759029813",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "139588502815",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "30165246313",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "30520836769",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "52525175632",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "4900356176",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "7421689294",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "663767727033",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "92559417069",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "48341147833",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "345925171",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "65935472866",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "9010634385",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "1518384847",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "3269815370",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Co-operative Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Co-operative Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "770538437425",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "0474808557",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "22315449897",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "07213904028",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "4795981369",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "24678577992",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "649780810190",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "353192681455",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "4087141190",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Co-operative Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Co-operative Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "17962061930",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Equity Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Equity Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "15942310267",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "947557614938",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Co-operative Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Co-operative Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "465069146065",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "67891816249",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "0052911566",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Equity Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Equity Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "712549679232",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "8136160478",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "479656886287",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "7461028555",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "0697242710",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Co-operative Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Co-operative Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "359522656480",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "9283129081",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "5597966992",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "14884337862",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "9047327792",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Equity Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Equity Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "65648785411",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "93559283260",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "6650643067",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "528606513374",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Equity Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Equity Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "2374435273",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "217814161352",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "80095169608",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "521810650939",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "81079833661",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "88614806842",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "051327597416",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "460898658202",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "8026269327",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "930338378611",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "35626970042",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Equity Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Equity Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "292879800656",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "175169685386",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "648457199328",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "768235724689",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "6697354645",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "263311822995",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "716325795283",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "3272407975",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "87481820014",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "0703844788",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "4178876061",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "4113602521",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "2377166365",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "5825992864",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "895130540647",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "908646637936",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "175286846102",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "62111150802",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "728034427044",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "909850770076",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "14369169028",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "964524461890",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "96269527017",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "50310610208",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "69338507355",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "0369290509",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "6839185584",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "527518430107",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "7456242758",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "45805694494",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "935945257045",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "44529069433",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "816399130921",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "539643911416",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "DTB",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "DTB",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "2116316725",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "601721954678",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "605674466301",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "627799618628",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Equity Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Equity Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "893279218374",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "68166757009",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "7787965978",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "2372777401",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "15324692548",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "3766827535",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "1902314414",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "35050496950",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "NCBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "NCBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "0427646054",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "KCB Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "KCB Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "15178986711",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "956724876319",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "422134174620",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "93255417679",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "271561285405",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "521013138494",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Equity Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Equity Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "05346898405",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "UBA Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "UBA Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "031441835520",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "1853669581",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Gt Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Gt Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "037839630578",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Co-operative Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Co-operative Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "2699334882",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Stanbic Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Stanbic Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "486569478507",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Family Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Family Bank",
+      "currency": "USD"
+    }
+  },
+  {
+    "accountNumber": "49819164955",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Dormant",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "National Bank",
+    "currency": "USD",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is dormant (inactive)",
+    "data": {
+      "status": "Dormant",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "National Bank",
+      "currency": "USD"
+    }
+  }
+]

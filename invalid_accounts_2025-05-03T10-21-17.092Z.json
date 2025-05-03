@@ -1,0 +1,2648 @@
+[
+  {
+    "accountNumber": "750565941700",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "8399225770",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "609538216366",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Co-operative Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Co-operative Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "0782104053",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "93048436476",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "0836363865",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "788184153891",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "4204591251",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "4965412612",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "591385411899",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "592784993877",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "8395045108",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "98293256974",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "947641273221",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "5255634354",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "67399762299",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "475902642501",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "811422397599",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "0130007421",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "UBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "UBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "8001093964",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "617723562723",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "79442033470",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "5149898615",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Family Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Family Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "195161517450",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "867946610794",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "3830902299",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "723454625872",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "072413026512",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "DTB",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "DTB",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "305158926324",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "DTB",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "DTB",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "85692691401",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "UBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "UBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "96289850578",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "51448708648",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Co-operative Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Co-operative Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "519941333838",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "DTB",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "DTB",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "431650082938",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "3377844510",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "66693648952",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "1558788222",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "437798940744",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "510276414375",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "28979626174",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "80788643690",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Stanbic Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Stanbic Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "247775934417",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "943831143376",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "13370647080",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "DTB",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "DTB",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "5562754986",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "853524265668",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "2482776916",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "7594129932",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "134909170791",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "UBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "UBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "60101773617",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "UBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "UBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "573632502208",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "1504948920",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "2490034918",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "53040508516",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "757542669228",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "961603219818",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "DTB",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "DTB",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "5858568306",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "3675130714",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "84908563102",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Co-operative Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Co-operative Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "1461216771",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "754019655156",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "DTB",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "DTB",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "745724365737",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "UBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "UBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "4705483169",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Family Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Family Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "928091851614",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "991934487942",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "DTB",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "DTB",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "842258260468",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "2379862080",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "DTB",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "DTB",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "06627383835",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "163751066950",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Co-operative Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Co-operative Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "76815969856",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "35230638291",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "393677923169",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Family Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Family Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "634505927976",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "DTB",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "DTB",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "48328036071",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "1788920754",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "DTB",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "DTB",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "694471954876",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Co-operative Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Co-operative Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "924682925541",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "UBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "UBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "14713080369",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "UBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "UBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "21013278046",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "796814035972",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Co-operative Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Co-operative Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "5083208844",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "DTB",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "DTB",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "808239392698",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "8910314546",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Stanbic Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Stanbic Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "4428669286",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Co-operative Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Co-operative Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "4722657425",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Family Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Family Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "105591581230",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "45444142480",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Co-operative Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Co-operative Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "5606037699",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "307162333661",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Family Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Family Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "0981493649",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Family Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Family Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "830225382346",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Co-operative Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Co-operative Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "1659313744",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "07345547153",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Family Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Family Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "0686286580",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "2449879060",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "189465690375",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "8532742281",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "UBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "UBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "285816457928",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Stanbic Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Stanbic Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "43014139719",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "9477762046",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Co-operative Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Co-operative Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "246384544348",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Co-operative Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Co-operative Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "2757513705",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "UBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "UBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "08172708117",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "29046055025",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Family Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Family Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "318317659090",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "5727461860",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Co-operative Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Co-operative Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "607562659668",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "413010170438",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Stanbic Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Stanbic Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "25478615608",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "3122037867",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "UBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "UBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "5091493647",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "032553358992",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "151320460054",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "8389860118",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "51049923420",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "608725446882",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "DTB",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "DTB",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "930341626536",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "31711381599",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "UBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "UBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "83446501850",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Stanbic Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Stanbic Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "57352994396",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Stanbic Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Stanbic Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "929734624684",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "6904547577",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "4908635910",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "8921607497",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Family Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Family Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "22322526936",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "4273540587",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "782594925016",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "65292679221",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "UBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "UBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "790754490393",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "936650168404",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Co-operative Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Co-operative Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "085517381320",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "87642047944",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Co-operative Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Co-operative Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "31570451212",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "60723201640",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "597349774648",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "04898478513",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "848899370541",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "5418446512",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "812497406169",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "National Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "National Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "4735369324",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emily Davis",
+    "bankName": "KCB Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emily Davis",
+      "bankName": "KCB Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "4279464200",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Stanbic Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Stanbic Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "0014753310",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "NCBA Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "NCBA Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "9101386443",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "508572363354",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Emma Wilson",
+    "bankName": "DTB",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Emma Wilson",
+      "bankName": "DTB",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "08016430575",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Olivia Taylor",
+    "bankName": "Gt Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Olivia Taylor",
+      "bankName": "Gt Bank",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "833147683800",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Sarah Jones",
+    "bankName": "DTB",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Sarah Jones",
+      "bankName": "DTB",
+      "currency": "KES"
+    }
+  },
+  {
+    "accountNumber": "9623839168",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Invalid",
+    "accountHolderName": "Jane Johnson",
+    "bankName": "Equity Bank",
+    "currency": "KES",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account is invalid in bank system",
+    "data": {
+      "status": "Invalid",
+      "accountHolderName": "Jane Johnson",
+      "bankName": "Equity Bank",
+      "currency": "KES"
+    }
+  }
+]

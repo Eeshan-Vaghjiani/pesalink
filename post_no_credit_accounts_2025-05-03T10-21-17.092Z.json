@@ -1,0 +1,2810 @@
+[
+  {
+    "accountNumber": "1492197255",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Co-operative Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Co-operative Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "55641330809",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "NCBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "NCBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "123149799803",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "26607037833",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Equity Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Equity Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "8109388721",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "751500496977",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Equity Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Equity Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "787561267664",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "00769464935",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "NCBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "NCBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "935779565234",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "15919430210",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "UBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "UBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "18722844242",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "446509742319",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "KCB Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "KCB Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "532819692082",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "294437212067",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "NCBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "NCBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "069521456277",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Co-operative Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Co-operative Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "372432216829",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "33216729459",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "KCB Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "KCB Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "65597207897",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "NCBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "NCBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "49659382053",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Equity Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Equity Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "05073266461",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "248465692007",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "421309092458",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "National Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "National Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "8705530149",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Equity Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Equity Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "80520352005",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "KCB Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "KCB Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "497111508579",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Co-operative Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Co-operative Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "921705150997",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "6834491965",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "39812689439",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "596550047769",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Co-operative Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Co-operative Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "154934080255",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "7893810515",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "19006572371",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "NCBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "NCBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "80859507914",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "4572750016",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "25546615329",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "KCB Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "KCB Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "178755613349",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "NCBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "NCBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "6741689487",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Co-operative Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Co-operative Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "43117163110",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "76112039378",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "National Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "National Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "9821081342",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "National Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "National Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "789066971696",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "UBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "UBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "17845050315",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "KCB Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "KCB Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "52104261027",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Equity Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Equity Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "887481529365",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Co-operative Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Co-operative Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "50716606",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "2385452602",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "3395711471",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "NCBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "NCBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "4912305589",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "11614821065",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "74602609388",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "9528729809",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "0385319995",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "11659090316",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "271766511824",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "National Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "National Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "39227934631",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "6126457235",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "9602735451",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "Equity Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "Equity Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "1371626457",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "KCB Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "KCB Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "1893567434",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "UBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "UBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "01286315569",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "38651469765",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Equity Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Equity Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "0285899915",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "NCBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "NCBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "2992531672",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "612136192196",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "35795162510",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "743950038897",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Equity Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Equity Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "95187904748",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "UBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "UBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "38585404289",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "NCBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "NCBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "57034837917",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "KCB Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "KCB Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "62984162097",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "KCB Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "KCB Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "9483277502",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "048452194094",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "UBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "UBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "48882217828",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "8954329671",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Co-operative Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Co-operative Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "9207062744",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "UBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "UBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "1119260270",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "24421782238",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "4464769286",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "National Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "National Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "6739353425",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "NCBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "NCBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "85116453626",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "6932149396",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "4345427571",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "KCB Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "KCB Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "47280329948",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "National Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "National Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "89918574357",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Equity Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Equity Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "6673738431",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Co-operative Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Co-operative Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "69243185565",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Equity Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Equity Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "010983722809",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "0906915621",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "Equity Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "Equity Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "588687122451",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "Equity Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "Equity Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "6986705577",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Equity Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Equity Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "3657185930",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "1136139926",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "National Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "National Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "13165823007",
+    "bankCode": "0023",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Equity Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Equity Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "9460315532",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "179571398630",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "National Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "National Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "9987254926",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "47241610070",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "4269460442",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "National Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "National Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "255903567",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Co-operative Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Co-operative Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "97666046385",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Co-operative Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Co-operative Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "339652865751",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "KCB Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "KCB Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "03851236757",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "72585416495",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "34561569542",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "National Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "National Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "096599494070",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "National Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "National Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "836013951861",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "KCB Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "KCB Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "250208215245",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "KCB Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "KCB Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "3170622466",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "2199971474",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "12339689282",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "National Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "National Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "933123289877",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "227247443408",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "356493436742",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "425490649395",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Co-operative Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Co-operative Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "4246116957",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Co-operative Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Co-operative Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "84510861244",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "5393438924",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "154919744747",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "07994825291",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "77159692454",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "6262705148",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "06174581690",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "UBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "UBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "13278275180",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "157348253612",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "34907340734",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "UBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "UBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "822106097541",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "KCB Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "KCB Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "50266369700",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "National Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "National Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "957982989506",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "9661422172",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "48233545148",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "93657323222",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "UBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "UBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "685600789010",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "5141670257",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "NCBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "NCBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "51334360808",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "337525515241",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "48793899339",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Co-operative Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Co-operative Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "33392398592",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "UBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "UBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "057473602294",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "5803637699",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "NCBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "NCBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "563393149473",
+    "bankCode": "0041",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "KCB Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "KCB Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "50529657577",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "0372321911",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "NCBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "NCBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "4127623496",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "UBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "UBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "34109475416",
+    "bankCode": "0054",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Gt Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Gt Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "338061909703",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "2005342337",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "457701779459",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "1831857861",
+    "bankCode": "0011",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Robert Williams",
+    "bankName": "Co-operative Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Robert Williams",
+      "bankName": "Co-operative Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "5498948983",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "6563494663",
+    "bankCode": "0031",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "Stanbic Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "Stanbic Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "75677773031",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "8980925831",
+    "bankCode": "0087",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "NCBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "NCBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "5366087066",
+    "bankCode": "0012",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "James Moore",
+    "bankName": "National Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "James Moore",
+      "bankName": "National Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "80057296442",
+    "bankCode": "0072",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "Michael Brown",
+    "bankName": "UBA Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "Michael Brown",
+      "bankName": "UBA Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "2476908424",
+    "bankCode": "0076",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "John Smith",
+    "bankName": "Family Bank",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "John Smith",
+      "bankName": "Family Bank",
+      "currency": "EUR"
+    }
+  },
+  {
+    "accountNumber": "86229504773",
+    "bankCode": "0063",
+    "httpStatus": 200,
+    "apiStatus": "Post no Credit",
+    "accountHolderName": "David Miller",
+    "bankName": "DTB",
+    "currency": "EUR",
+    "success": false,
+    "isValidStructure": true,
+    "errorMessage": "Account cannot receive credits",
+    "data": {
+      "status": "Post no Credit",
+      "accountHolderName": "David Miller",
+      "bankName": "DTB",
+      "currency": "EUR"
+    }
+  }
+]

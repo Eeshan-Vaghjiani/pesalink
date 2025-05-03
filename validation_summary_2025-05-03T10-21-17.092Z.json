@@ -1,0 +1,33 @@
+{
+  "total": 1000,
+  "successful": 166,
+  "validStructure": 638,
+  "failed": 834,
+  "successRate": "16.60%",
+  "validStructureRate": "63.80%",
+  "processingTimeSeconds": 198,
+  "httpStatusCounts": {
+    "200": 638,
+    "400": 51,
+    "404": 146,
+    "500": 165
+  },
+  "apiStatusCounts": {
+    "Unknown": 362,
+    "Post no Credit": 156,
+    "Dormant": 169,
+    "Invalid": 147,
+    "Valid": 166
+  },
+  "validCount": 166,
+  "validStructureCount": 638,
+  "dormantCount": 169,
+  "postNoCreditCount": 156,
+  "invalidCount": 147,
+  "errorCount": 362,
+  "validRate": "16.60%",
+  "dormantRate": "16.90%",
+  "postNoCreditRate": "15.60%",
+  "invalidRate": "14.70%",
+  "errorRate": "36.20%"
+}

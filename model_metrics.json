@@ -1,0 +1,84 @@
+{
+  "model_trained": true,
+  "accuracy": 0.84,
+  "precision": 0.9343434343434344,
+  "recall": 0.8409090909090909,
+  "f1_score": 0.8851674641148325,
+  "confusion_matrix": [
+    [
+      67,
+      13
+    ],
+    [
+      35,
+      185
+    ]
+  ],
+  "model_file": "account_validation_model.joblib",
+  "confusion_matrix_file": "static/confusion_matrix.png",
+  "roc_curve_file": "static/roc_curve.png",
+  "feature_importance_file": "static/feature_importance.png",
+  "feature_importance": [
+    {
+      "feature": "status_code",
+      "importance": 0.8016375092916878
+    },
+    {
+      "feature": "bank_success_rate",
+      "importance": 0.0358823646840271
+    },
+    {
+      "feature": "account_sum_digits",
+      "importance": 0.02323733585314429
+    },
+    {
+      "feature": "bank_code",
+      "importance": 0.019368627564337226
+    },
+    {
+      "feature": "digit_variance",
+      "importance": 0.017875526834613263
+    },
+    {
+      "feature": "digit_pos_2",
+      "importance": 0.016322263526691493
+    },
+    {
+      "feature": "digit_pos_1",
+      "importance": 0.01610187531630155
+    },
+    {
+      "feature": "digit_pos_3",
+      "importance": 0.015725224929294245
+    },
+    {
+      "feature": "bank_code_frequency",
+      "importance": 0.013813206554728577
+    },
+    {
+      "feature": "first_digit",
+      "importance": 0.013809295022738808
+    },
+    {
+      "feature": "last_digit",
+      "importance": 0.013650274107413103
+    },
+    {
+      "feature": "digit_pos_0",
+      "importance": 0.012576496315022669
+    },
+    {
+      "feature": "account_length",
+      "importance": 0.0
+    },
+    {
+      "feature": "account_num_digits",
+      "importance": 0.0
+    },
+    {
+      "feature": "consecutive_zeros",
+      "importance": 0.0
+    }
+  ],
+  "auc": 1.0
+}

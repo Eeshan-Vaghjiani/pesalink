@@ -1,0 +1,5432 @@
+[
+  {
+    "accountNumber": "4821784817",
+    "bankCode": "0012",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "4718330168",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "0MT5D76GSLAO",
+    "bankCode": "0054",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "068510030030",
+    "bankCode": "0063",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "153467595618",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "30681434332",
+    "bankCode": "0012",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "5939931582",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "88372811284181",
+    "bankCode": "0087",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "659921387",
+    "bankCode": "0012",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "36961059439",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "663765605472",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "82620365650",
+    "bankCode": "0012",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "5651365146",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "20794989709",
+    "bankCode": "9462",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "5400001419",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "81576498116",
+    "bankCode": "0063",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "7510182059",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "371586136716",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "50398767414",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "8Z06TFJQ5F",
+    "bankCode": "0054",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "921256985654",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "9753302184",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "688021757303",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "495396433344",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "58424303471",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "06922494539",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "31139363261",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "209384709449",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "50874525420",
+    "bankCode": "0023",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "18432416413",
+    "bankCode": "0087",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "059593658233",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "8632223026",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "27136602168",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "740857348603",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "961018378831",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "603520858117",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "3929697803978",
+    "bankCode": "0031",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "2980311431",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "054629462566",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "06395050774",
+    "bankCode": "0012",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "27129890783841",
+    "bankCode": "0076",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "2127115066",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "5277047252",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "73743639",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "4225040136",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "275562446019",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "0346011604",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "2337227386",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "8448372379",
+    "bankCode": "9562",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "222846098472",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "8997795125",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "42VKTWJD1CR9",
+    "bankCode": "0023",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "254970115969",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "1499371324",
+    "bankCode": "0012",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "9730754627",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "7511777574",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "348628567818",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "77193894534121",
+    "bankCode": "0063",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "365813472467",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "8458173835",
+    "bankCode": "9215",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "21760442021",
+    "bankCode": "0023",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "1874953997",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "91887543214",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "299841870770",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "19733644980161",
+    "bankCode": "0087",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "048463798891",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "264600135205",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "95063460310",
+    "bankCode": "0054",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "904987805305",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "707914545289",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "85557503527",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "7401149230",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "416047049633",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "110609075400",
+    "bankCode": "0023",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "86298695065",
+    "bankCode": "9589",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "292248628265",
+    "bankCode": "0012",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "Y6SMB71BHD",
+    "bankCode": "0054",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "54506219184",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "263698823525",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "5433459198",
+    "bankCode": "0023",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "244764315115",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "664675640088",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "508848097320",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "6899025305",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "693728490515",
+    "bankCode": "0012",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "846274813770",
+    "bankCode": "0023",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "8142318538",
+    "bankCode": "0054",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "CAVYTNCAEB3",
+    "bankCode": "0063",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "8456471416",
+    "bankCode": "0012",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "VADJVZTD9D",
+    "bankCode": "0072",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "790022859007",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "VU70TI953HA",
+    "bankCode": "0054",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "74658733337",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "439529118477",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "145998527694",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "7366378183",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "8032778916",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "0263302409365",
+    "bankCode": "0076",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "JI9KSP6AK5",
+    "bankCode": "0076",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "23839522162",
+    "bankCode": "0054",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "706832204385",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "53720228258",
+    "bankCode": "0063",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "17382331390",
+    "bankCode": "9473",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "275652035735",
+    "bankCode": "0023",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "7973864982",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "3185455435",
+    "bankCode": "0087",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "1963372548",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "MJTRJJP10KQG",
+    "bankCode": "0012",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "19296655637",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "48527187023",
+    "bankCode": "0012",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "8895275850",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "05617128729806",
+    "bankCode": "0054",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "1584096340",
+    "bankCode": "0054",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "74356914",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "7148464871",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "AO1NK5FW15N",
+    "bankCode": "0023",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "XDEOHATYBAQH",
+    "bankCode": "0063",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "18270587236",
+    "bankCode": "0054",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "2762837719",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "2132845003",
+    "bankCode": "0087",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "987086072363",
+    "bankCode": "0012",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "1339168361",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "750626871183",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "89252221787",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "5887334412",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "733962128963",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "2197340464",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "763951216043",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "435633306582",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "310959772696",
+    "bankCode": "0012",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "216515239878",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "8289294481",
+    "bankCode": "0087",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "7900831823",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "54549168047",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "37535031833",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "9792776652",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "115899888160",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "4211448320",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "3072436552",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "3798528009",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "979762627200",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "YZEUC7N6JJ",
+    "bankCode": "0063",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "659815440041",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "3208599532068",
+    "bankCode": "0023",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "03746143025",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "5120859944",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "2249190581",
+    "bankCode": "9151",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "270840888799",
+    "bankCode": "0087",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "83992799502",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "57886203676",
+    "bankCode": "0054",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "109875222342",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "519119001923",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "77223766889",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "3833184529",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "39993105852",
+    "bankCode": "0023",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "1770794537",
+    "bankCode": "0023",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "560109382345",
+    "bankCode": "0087",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "8722684981",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "551100539560",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "59092762320",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "87605675350",
+    "bankCode": "9842",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "0529468727",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "6271631739",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "705529418548",
+    "bankCode": "0012",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "2515311267",
+    "bankCode": "9791",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "7283751910",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "1000118202",
+    "bankCode": "0023",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "4140130067",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "3374639092",
+    "bankCode": "9618",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "20979852882",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "4306576217",
+    "bankCode": "0012",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "4766653370",
+    "bankCode": "0063",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "629382080015",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "563101122353",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "6ZG09WEAQUS",
+    "bankCode": "0076",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "57839704631",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "39205107587",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "0756615576",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "26587582697",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "685039616890",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "1951606207",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "4450775944",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "15NWULN0EBXZ",
+    "bankCode": "0023",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "058808795662",
+    "bankCode": "0054",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "906622202500",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "2334682294",
+    "bankCode": "0012",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "02886680998",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "8666092639",
+    "bankCode": "0087",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "866374422253",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "32045964972",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "FGKW09LD7XX",
+    "bankCode": "0087",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "898150887756",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "7181768496",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "361884471134",
+    "bankCode": "0063",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "06345821800",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "602264265340",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "55777019822",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "MDA0692F1P",
+    "bankCode": "0087",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "92087381024",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "70308452801",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "932366950353",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "70432697935",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "05580566270",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "033771512834",
+    "bankCode": "9338",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "61940846688",
+    "bankCode": "0023",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "4498328650",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "4038434081",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "1011930081",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "7369127541",
+    "bankCode": "9486",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "8911278136",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "1308539231",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "167508647867",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "163134547727",
+    "bankCode": "0012",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "603088978260",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "975035006892",
+    "bankCode": "9281",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "6711697956",
+    "bankCode": "0023",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "7665457175",
+    "bankCode": "0012",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "09439432435",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "46564376165",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "991504333679",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "90460368138",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "3351923361069",
+    "bankCode": "0031",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "5252200523",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "96299994487",
+    "bankCode": "0087",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "85091697658",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "7487139510",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "834114580690",
+    "bankCode": "0054",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "33005988876",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "10072737",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "0075897365",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "335186701897",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "2144277505",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "7915250617",
+    "bankCode": "0087",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "78083216368",
+    "bankCode": "0012",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "94337182973",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "37447264508",
+    "bankCode": "0063",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "783208386923",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "03608443694",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "5466526174",
+    "bankCode": "0012",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "463628613090",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "14223409768",
+    "bankCode": "9934",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "17346458243",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "31359769295",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "38GRJVU3TRJQ",
+    "bankCode": "0011",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "22650321597",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "4620315546",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "9162043047",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "1260838244",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "83736195748",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "7134741041",
+    "bankCode": "0012",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "7876969558",
+    "bankCode": "0054",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "5044113443",
+    "bankCode": "0023",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "6928607370",
+    "bankCode": "9938",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "209471911674",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "94018075439",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "097242628829",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "3326350772",
+    "bankCode": "0063",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "33308913140",
+    "bankCode": "0063",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "4010393075",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "55760270277",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "43054737730235",
+    "bankCode": "0041",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "906732420365",
+    "bankCode": "0023",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "252507394679",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "2227562713",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "842676425432",
+    "bankCode": "0063",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "DTEDZZ294VW5",
+    "bankCode": "0023",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "5583879847",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "6816819211",
+    "bankCode": "0087",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "12681877067",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "07263274637",
+    "bankCode": "0023",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "91376264909",
+    "bankCode": "0012",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "1775467445",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "3239977348",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "82578983621",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "43028110782",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "367256818908",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "94003535009",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "CR46076VC6U6",
+    "bankCode": "0072",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "064362733128",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "39591937559",
+    "bankCode": "9374",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "07216158131",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "53809624121",
+    "bankCode": "0012",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "01341079633",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "61252953629",
+    "bankCode": "0012",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "94387443092",
+    "bankCode": "0063",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "442003702123",
+    "bankCode": "0087",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "107996083139",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "6137539238",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "3403154597",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "6914313019",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "9556812919",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "9648811968",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "4409136684",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "077034186430",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "696490719838",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "149165317026",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "24297745525067",
+    "bankCode": "0012",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "99112181882",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "235028684316",
+    "bankCode": "0023",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "135494528657",
+    "bankCode": "0023",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "395182123065",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "20974443007",
+    "bankCode": "0087",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "612802379936",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "28995656344",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "36719117717",
+    "bankCode": "0012",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "636444542748",
+    "bankCode": "0011",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "5183253959",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "692805042977",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "P0JYR4OQ8S",
+    "bankCode": "0072",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "638985476778",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "546035898322",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "2285352376",
+    "bankCode": "0054",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "7149822247",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "099803175516",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "0378576131",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "593853355537",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "22896813449",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "7940532624",
+    "bankCode": "0023",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "0447000502",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "9792132515",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "3759576059",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "09496361924",
+    "bankCode": "9753",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "2871845270",
+    "bankCode": "0063",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "18633312862",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "125867674486",
+    "bankCode": "0012",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "0281107027",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "74RXKTBBLEF",
+    "bankCode": "0023",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "30552680593",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "032113768154",
+    "bankCode": "9284",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "9676144621",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "38001825011",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "825800041052",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "GHXSHVKJ3RW5",
+    "bankCode": "0012",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "0243163602",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "717590227128",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "84042821309",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "325250626170",
+    "bankCode": "0076",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "857509841102",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "999915760961",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "53511346433",
+    "bankCode": "0023",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "01820709208",
+    "bankCode": "0012",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "96683897020",
+    "bankCode": "0012",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "758644190150",
+    "bankCode": "0063",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "32786636677",
+    "bankCode": "0087",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "264671905489",
+    "bankCode": "0076",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "7POCG0BHUKTP",
+    "bankCode": "0076",
+    "httpStatus": 400,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Bad request, missing or invalid parameters",
+    "data": {
+      "error": "Invalid account format or bank code"
+    }
+  },
+  {
+    "accountNumber": "507958941",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "79392467",
+    "bankCode": "0054",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "1459261044",
+    "bankCode": "0041",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "3185091719",
+    "bankCode": "0072",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "0485561350",
+    "bankCode": "0072",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "2722034337",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "81345505101",
+    "bankCode": "0031",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "580363863812",
+    "bankCode": "0063",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "8687088617",
+    "bankCode": "0011",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "4476921223",
+    "bankCode": "0063",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "1225310293",
+    "bankCode": "0087",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "678268120307",
+    "bankCode": "0023",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "572060435656",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "994332121840",
+    "bankCode": "0031",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  },
+  {
+    "accountNumber": "4963812983",
+    "bankCode": "0041",
+    "httpStatus": 404,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Account or bank not found",
+    "data": {
+      "error": "Account not found"
+    }
+  },
+  {
+    "accountNumber": "2443763036",
+    "bankCode": "0087",
+    "httpStatus": 500,
+    "apiStatus": "Unknown",
+    "accountHolderName": null,
+    "bankName": null,
+    "currency": null,
+    "success": false,
+    "isValidStructure": false,
+    "errorMessage": "Unexpected status code: 500",
+    "data": {
+      "error": "Internal server error"
+    }
+  }
+]

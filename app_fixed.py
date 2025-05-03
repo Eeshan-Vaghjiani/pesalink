@@ -1,0 +1,1 @@
+import streamlit as st; import pandas as pd; import json; import os; import glob; st.title('Account Validation Test'); try: st.write('Dashboard is working correctly!'); except Exception as e: st.error(f'An error occurred: {str(e)}')

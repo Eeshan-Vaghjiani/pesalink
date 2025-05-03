@@ -1,0 +1,1001 @@
+Account Number,Bank Code,Expected Validity,Expected Status,Invalid Type
+4821784817,0012,Invalid,Dormant,dormant_account
+4718330168,0087,Invalid,Invalid,invalid_account
+0MT5D76GSLAO,0054,Invalid,Invalid,non_numeric
+068510030030,0063,Valid,Valid,
+1492197255,0011,Valid,Valid,
+153467595618,0076,Invalid,Post no Credit,post_no_credit
+3613488229,0012,Valid,Valid,
+55641330809,0087,Valid,Valid,
+30681434332,0012,Valid,Valid,
+5939931582,0041,Valid,Valid,
+88372811284181,0087,Invalid,Invalid,wrong_length
+750565941700,0041,Invalid,Post no Credit,post_no_credit
+123149799803,0063,Valid,Valid,
+26607037833,0023,Valid,Valid,
+8109388721,0063,Valid,Valid,
+659921387,0012,Invalid,Invalid,wrong_length
+36961059439,0076,Invalid,Dormant,dormant_account
+663765605472,0011,Invalid,Post no Credit,post_no_credit
+3303194669,0031,Valid,Valid,
+53736169998,0054,Valid,Valid,
+8399225770,0023,Valid,Valid,
+82620365650,0012,Valid,Valid,
+5651365146,0011,Valid,Valid,
+20794989709,9462,Invalid,Invalid,invalid_bank
+37284500860,0087,Valid,Valid,
+5400001419,0031,Valid,Valid,
+81576498116,0063,Valid,Valid,
+7510182059,0041,Invalid,Dormant,dormant_account
+58952921515,0041,Valid,Valid,
+4596830977,0012,Invalid,Invalid,invalid_account
+609538216366,0011,Valid,Valid,
+751500496977,0023,Valid,Valid,
+183206589163,0011,Valid,Valid,
+787561267664,0054,Valid,Valid,
+1862058691,0041,Valid,Valid,
+371586136716,0041,Invalid,Post no Credit,post_no_credit
+50398767414,0041,Valid,Valid,
+9496641570,0012,Valid,Valid,
+8Z06TFJQ5F,0054,Invalid,Invalid,non_numeric
+921256985654,0087,Invalid,Dormant,dormant_account
+0007882904,0076,Valid,Valid,
+00769464935,0087,Invalid,Post no Credit,post_no_credit
+9753302184,0076,Valid,Valid,
+935779565234,0054,Invalid,Post no Credit,post_no_credit
+688021757303,0011,Invalid,Post no Credit,post_no_credit
+495396433344,0011,Invalid,Post no Credit,post_no_credit
+135139949617,0041,Invalid,Post no Credit,post_no_credit
+7535904379,0041,Invalid,Post no Credit,post_no_credit
+0782104053,0012,Valid,Valid,
+58424303471,0072,Valid,Valid,
+304783414552,0063,Valid,Valid,
+06922494539,0011,Valid,Valid,
+31139363261,0054,Valid,Valid,
+209384709449,0054,Valid,Valid,
+50874525420,0023,Valid,Valid,
+15919430210,0072,Invalid,Dormant,dormant_account
+18432416413,0087,Valid,Valid,
+215167378303,0023,Valid,Valid,
+059593658233,0063,Valid,Valid,
+8632223026,0072,Valid,Valid,
+27136602168,0076,Valid,Valid,
+18722844242,0054,Valid,Valid,
+941304716626,0087,Valid,Valid,
+740857348603,0063,Valid,Valid,
+961018378831,0063,Valid,Valid,
+082484295769,0041,Invalid,Dormant,dormant_account
+48838250712,0012,Valid,Valid,
+603520858117,0076,Valid,Valid,
+3929697803978,0031,Invalid,Invalid,wrong_length
+2967677504,0023,Valid,Valid,
+93048436476,0087,Valid,Valid,
+0836363865,0012,Invalid,Dormant,dormant_account
+2980311431,0041,Invalid,Post no Credit,post_no_credit
+054629462566,0031,Valid,Valid,
+774094549226,0011,Valid,Valid,
+446509742319,0041,Valid,Valid,
+06395050774,0012,Invalid,Dormant,dormant_account
+831281215893,0076,Valid,Valid,
+27129890783841,0076,Invalid,Invalid,wrong_length
+532819692082,0076,Valid,Valid,
+70315143076,0087,Valid,Valid,
+2127115066,0072,Valid,Valid,
+8129729125,0072,Valid,Valid,
+6999170184,0012,Invalid,Dormant,dormant_account
+5277047252,0087,Valid,Valid,
+8054600292,0054,Valid,Valid,
+73743639,0031,Invalid,Invalid,wrong_length
+4225040136,0076,Valid,Valid,
+14090330816,0076,Invalid,Dormant,dormant_account
+275562446019,0031,Valid,Valid,
+409018729358,0023,Valid,Valid,
+0346011604,0031,Invalid,Dormant,dormant_account
+2337227386,0072,Valid,Valid,
+0104670754,0087,Invalid,Dormant,dormant_account
+0550369153,0023,Valid,Valid,
+661463847955,0023,Valid,Valid,
+8448372379,9562,Invalid,Invalid,invalid_bank
+222846098472,0011,Valid,Valid,
+941592896515,0012,Valid,Valid,
+8997795125,0072,Valid,Valid,
+42VKTWJD1CR9,0023,Invalid,Invalid,non_numeric
+5059686784,0087,Invalid,Dormant,dormant_account
+3944597468,0011,Valid,Valid,
+254970115969,0063,Invalid,Dormant,dormant_account
+60105382293,0063,Valid,Valid,
+16537532324,0041,Valid,Valid,
+1499371324,0012,Valid,Valid,
+788184153891,0012,Valid,Valid,
+39107561016,0054,Valid,Valid,
+4204591251,0054,Valid,Valid,
+9730754627,0054,Invalid,Dormant,dormant_account
+855033162151,0072,Valid,Valid,
+91998615345,0087,Valid,Valid,
+4965412612,0041,Valid,Valid,
+591385411899,0054,Invalid,Dormant,dormant_account
+134683850806,0087,Valid,Valid,
+7511777574,0041,Invalid,Dormant,dormant_account
+231008200272,0031,Valid,Valid,
+592784993877,0012,Valid,Valid,
+8395045108,0041,Valid,Valid,
+98293256974,0023,Valid,Valid,
+947641273221,0012,Valid,Valid,
+0495020007,0087,Valid,Valid,
+348628567818,0041,Valid,Valid,
+890143931533,0072,Invalid,Post no Credit,post_no_credit
+295042954898,0041,Invalid,Post no Credit,post_no_credit
+77193894534121,0063,Invalid,Invalid,wrong_length
+365813472467,0011,Invalid,Post no Credit,post_no_credit
+8458173835,9215,Invalid,Invalid,invalid_bank
+5255634354,0087,Valid,Valid,
+21760442021,0023,Invalid,Dormant,dormant_account
+1874953997,0011,Invalid,Dormant,dormant_account
+9648496734,0054,Invalid,Invalid,invalid_account
+065293274656,0087,Valid,Valid,
+294437212067,0087,Valid,Valid,
+069521456277,0011,Valid,Valid,
+372432216829,0031,Valid,Valid,
+91887543214,0031,Valid,Valid,
+870941065252,0063,Valid,Valid,
+299841870770,0087,Valid,Valid,
+33216729459,0041,Invalid,Dormant,dormant_account
+65597207897,0087,Valid,Valid,
+67399762299,0054,Invalid,Dormant,dormant_account
+78377518493,0031,Valid,Valid,
+19733644980161,0087,Invalid,Invalid,wrong_length
+9776651310,0054,Invalid,Dormant,dormant_account
+784328512927,0054,Invalid,Dormant,dormant_account
+048463798891,0063,Valid,Valid,
+264600135205,0063,Valid,Valid,
+2923984981,0041,Valid,Valid,
+2368925784,0054,Valid,Valid,
+08717530087,0072,Invalid,Post no Credit,post_no_credit
+9273388711,0041,Valid,Valid,
+95063460310,0054,Valid,Valid,
+49659382053,0023,Invalid,Dormant,dormant_account
+05073266461,0031,Invalid,Post no Credit,post_no_credit
+5881686137,0031,Valid,Valid,
+248465692007,0063,Valid,Valid,
+904987805305,0076,Valid,Valid,
+707914545289,0063,Valid,Valid,
+6739697949,0076,Valid,Valid,
+83182257271,0011,Valid,Valid,
+421309092458,0012,Valid,Valid,
+93549679635,0063,Valid,Valid,
+926844590207,0031,Valid,Valid,
+85557503527,0063,Valid,Valid,
+4805326417,0011,Invalid,Post no Credit,post_no_credit
+0600839780,0023,Valid,Valid,
+8705530149,0023,Valid,Valid,
+7401149230,0031,Valid,Valid,
+80520352005,0041,Valid,Valid,
+416047049633,0011,Invalid,Post no Credit,post_no_credit
+497111508579,0011,Invalid,Invalid,invalid_account
+110609075400,0023,Invalid,Post no Credit,post_no_credit
+475902642501,0054,Invalid,Dormant,dormant_account
+86298695065,9589,Invalid,Invalid,invalid_bank
+811422397599,0012,Valid,Valid,
+292248628265,0012,Valid,Valid,
+Y6SMB71BHD,0054,Invalid,Invalid,non_numeric
+837649172625,0087,Invalid,Dormant,dormant_account
+54506219184,0041,Valid,Valid,
+391708610160,0031,Invalid,Post no Credit,post_no_credit
+891764934169,0054,Valid,Valid,
+9782646310,0063,Valid,Valid,
+0130007421,0072,Valid,Valid,
+8014650788,0041,Valid,Valid,
+34072279389,0076,Valid,Valid,
+263698823525,0072,Invalid,Post no Credit,post_no_credit
+921705150997,0031,Valid,Valid,
+5433459198,0023,Valid,Valid,
+6834491965,0031,Valid,Valid,
+8813193666,0054,Invalid,Invalid,invalid_account
+26353387658,0076,Invalid,Post no Credit,post_no_credit
+39812689439,0063,Invalid,Post no Credit,post_no_credit
+596550047769,0011,Valid,Valid,
+244764315115,0063,Valid,Valid,
+74883379311,0087,Valid,Valid,
+5441811691,0054,Valid,Valid,
+664675640088,0011,Valid,Valid,
+704452642086,0031,Valid,Valid,
+508848097320,0011,Valid,Valid,
+8001093964,0041,Valid,Valid,
+2796217669,0072,Valid,Valid,
+154934080255,0031,Invalid,Dormant,dormant_account
+6899025305,0011,Valid,Valid,
+693728490515,0012,Valid,Valid,
+7893810515,0063,Invalid,Dormant,dormant_account
+617723562723,0012,Invalid,Post no Credit,post_no_credit
+79442033470,0023,Valid,Valid,
+13305677851,0041,Valid,Valid,
+6974461522,0087,Invalid,Dormant,dormant_account
+10612987595,0031,Valid,Valid,
+37519468608,0054,Valid,Valid,
+5149898615,0076,Valid,Valid,
+846274813770,0023,Valid,Valid,
+11931079154,0023,Valid,Valid,
+8925655321,0072,Invalid,Dormant,dormant_account
+8142318538,0054,Invalid,Post no Credit,post_no_credit
+2099273060,0023,Invalid,Post no Credit,post_no_credit
+740043855874,0063,Invalid,Dormant,dormant_account
+CAVYTNCAEB3,0063,Invalid,Invalid,non_numeric
+4378972575,0087,Valid,Valid,
+8456471416,0012,Valid,Valid,
+0307760291,0031,Valid,Valid,
+19006572371,0087,Valid,Valid,
+80859507914,0054,Valid,Valid,
+VADJVZTD9D,0072,Invalid,Invalid,non_numeric
+790022859007,0063,Valid,Valid,
+195161517450,0087,Valid,Valid,
+VU70TI953HA,0054,Invalid,Invalid,non_numeric
+4572750016,0076,Invalid,Dormant,dormant_account
+74658733337,0054,Valid,Valid,
+6729546920,0011,Invalid,Post no Credit,post_no_credit
+439529118477,0031,Valid,Valid,
+52443166795,0012,Invalid,Post no Credit,post_no_credit
+145998527694,0011,Valid,Valid,
+7366378183,0063,Valid,Valid,
+867946610794,0023,Valid,Valid,
+8032778916,0076,Invalid,Dormant,dormant_account
+64335983389,0012,Valid,Valid,
+3830902299,0054,Invalid,Post no Credit,post_no_credit
+31599818703,0087,Valid,Valid,
+0263302409365,0076,Invalid,Invalid,wrong_length
+JI9KSP6AK5,0076,Invalid,Invalid,non_numeric
+25546615329,0041,Valid,Valid,
+723454625872,0023,Valid,Valid,
+8315209398,0072,Valid,Valid,
+178755613349,0087,Valid,Valid,
+23839522162,0054,Valid,Valid,
+072413026512,0063,Invalid,Post no Credit,post_no_credit
+305158926324,0063,Valid,Valid,
+7818622674,0012,Valid,Valid,
+85692691401,0072,Valid,Valid,
+706832204385,0031,Valid,Valid,
+415541605521,0076,Invalid,Invalid,invalid_account
+97835864736,0031,Valid,Valid,
+178448912394,0072,Invalid,Post no Credit,post_no_credit
+6741689487,0011,Invalid,Dormant,dormant_account
+53720228258,0063,Valid,Valid,
+96289850578,0041,Valid,Valid,
+17382331390,9473,Invalid,Invalid,invalid_bank
+275652035735,0023,Invalid,Post no Credit,post_no_credit
+3927342231,0087,Valid,Valid,
+068232772112,0041,Invalid,Post no Credit,post_no_credit
+295431076730,0076,Valid,Valid,
+43117163110,0076,Valid,Valid,
+7973864982,0011,Valid,Valid,
+51448708648,0011,Valid,Valid,
+3185455435,0087,Valid,Valid,
+410249089489,0023,Valid,Valid,
+1963372548,0041,Valid,Valid,
+MJTRJJP10KQG,0012,Invalid,Invalid,non_numeric
+19296655637,0054,Valid,Valid,
+0050898351,0087,Valid,Valid,
+792767068959,0076,Valid,Valid,
+591953010580,0063,Valid,Valid,
+76112039378,0012,Valid,Valid,
+519941333838,0063,Valid,Valid,
+9821081342,0012,Valid,Valid,
+789066971696,0072,Valid,Valid,
+086696067,0076,Invalid,Invalid,wrong_length
+48527187023,0012,Invalid,Post no Credit,post_no_credit
+8895275850,0011,Valid,Valid,
+05617128729806,0054,Invalid,Invalid,wrong_length
+1584096340,0054,Valid,Valid,
+74356914,0076,Invalid,Invalid,wrong_length
+7148464871,0054,Valid,Valid,
+AO1NK5FW15N,0023,Invalid,Invalid,non_numeric
+9958665592,0063,Valid,Valid,
+0333262634,0011,Valid,Valid,
+XDEOHATYBAQH,0063,Invalid,Invalid,non_numeric
+17845050315,0041,Valid,Valid,
+18270587236,0054,Valid,Valid,
+431650082938,0023,Valid,Valid,
+2762837719,0063,Valid,Valid,
+3377844510,0087,Valid,Valid,
+52104261027,0023,Valid,Valid,
+2132845003,0087,Invalid,Post no Credit,post_no_credit
+987086072363,0012,Valid,Valid,
+6895169222,0023,Valid,Valid,
+66693648952,0023,Valid,Valid,
+887481529365,0011,Invalid,Dormant,dormant_account
+8923879975,0023,Valid,Valid,
+1339168361,0072,Valid,Valid,
+750626871183,0031,Invalid,Post no Credit,post_no_credit
+1558788222,0087,Valid,Valid,
+89252221787,0011,Valid,Valid,
+437798940744,0087,Invalid,Invalid,invalid_account
+5887334412,0076,Valid,Valid,
+733962128963,0041,Valid,Valid,
+1626427024,0087,Invalid,Post no Credit,post_no_credit
+8300795757,0076,Invalid,Post no Credit,post_no_credit
+2197340464,0072,Invalid,Dormant,dormant_account
+6590323309,0023,Valid,Valid,
+988258170945,0087,Invalid,Post no Credit,post_no_credit
+809759029813,0072,Valid,Valid,
+50716606,0076,Invalid,Invalid,wrong_length
+763951216043,0072,Invalid,Dormant,dormant_account
+510276414375,0012,Valid,Valid,
+2385452602,0076,Invalid,Post no Credit,post_no_credit
+139588502815,0054,Valid,Valid,
+3395711471,0087,Valid,Valid,
+480926401061,0031,Valid,Valid,
+28979626174,0023,Valid,Valid,
+80788643690,0031,Valid,Valid,
+247775934417,0012,Valid,Valid,
+4912305589,0031,Valid,Valid,
+435633306582,0076,Valid,Valid,
+789732544536,0072,Valid,Valid,
+2740341413,0031,Invalid,Invalid,invalid_account
+943831143376,0023,Valid,Valid,
+11614821065,0063,Valid,Valid,
+30165246313,0012,Valid,Valid,
+13370647080,0063,Valid,Valid,
+310959772696,0012,Valid,Valid,
+878311515859,0011,Valid,Valid,
+9179679176,0076,Valid,Valid,
+620480771268,0054,Valid,Valid,
+216515239878,0076,Invalid,Dormant,dormant_account
+8289294481,0087,Valid,Valid,
+30520836769,0072,Valid,Valid,
+74602609388,0054,Valid,Valid,
+33182439084,0072,Valid,Valid,
+7900831823,0054,Valid,Valid,
+1149142902,0054,Valid,Valid,
+54549168047,0072,Valid,Valid,
+9528729809,0063,Invalid,Post no Credit,post_no_credit
+5562754986,0087,Valid,Valid,
+68891172933,0063,Valid,Valid,
+853524265668,0087,Valid,Valid,
+52525175632,0087,Valid,Valid,
+37535031833,0072,Valid,Valid,
+2693016027,0087,Valid,Valid,
+2482776916,0023,Valid,Valid,
+9792776652,0076,Valid,Valid,
+2865536172,0012,Valid,Valid,
+0385319995,0031,Invalid,Post no Credit,post_no_credit
+15393140976,0054,Valid,Valid,
+11659090316,0054,Valid,Valid,
+7594129932,0087,Invalid,Dormant,dormant_account
+115899888160,0031,Invalid,Post no Credit,post_no_credit
+4211448320,0087,Invalid,Invalid,invalid_account
+168049752720,0012,Valid,Valid,
+3072436552,0031,Valid,Valid,
+3798528009,0031,Invalid,Dormant,dormant_account
+979762627200,0011,Valid,Valid,
+YZEUC7N6JJ,0063,Invalid,Invalid,non_numeric
+659815440041,0054,Valid,Valid,
+3208599532068,0023,Invalid,Invalid,wrong_length
+03746143025,0072,Valid,Valid,
+4900356176,0041,Valid,Valid,
+5120859944,0087,Invalid,Dormant,dormant_account
+2249190581,9151,Invalid,Invalid,invalid_bank
+85921495609,0041,Invalid,Post no Credit,post_no_credit
+271766511824,0012,Valid,Valid,
+270840888799,0087,Valid,Valid,
+39227934631,0031,Valid,Valid,
+6126457235,0063,Invalid,Post no Credit,post_no_credit
+56039955751,0023,Valid,Valid,
+83992799502,0041,Invalid,Dormant,dormant_account
+57886203676,0054,Valid,Valid,
+732990889849,0023,Valid,Valid,
+9602735451,0023,Valid,Valid,
+1371626457,0041,Valid,Valid,
+134909170791,0072,Valid,Valid,
+109875222342,0011,Invalid,Post no Credit,post_no_credit
+519119001923,0054,Valid,Valid,
+77223766889,0041,Invalid,Invalid,invalid_account
+1893567434,0072,Invalid,Dormant,dormant_account
+7421689294,0063,Valid,Valid,
+9854213550,0072,Valid,Valid,
+60101773617,0072,Valid,Valid,
+663767727033,0076,Valid,Valid,
+3833184529,0076,Valid,Valid,
+573632502208,0023,Invalid,Post no Credit,post_no_credit
+1504948920,0087,Valid,Valid,
+045557951916,0054,Invalid,Post no Credit,post_no_credit
+49807970130,0072,Invalid,Dormant,dormant_account
+39993105852,0023,Invalid,Post no Credit,post_no_credit
+1770794537,0023,Valid,Valid,
+01286315569,0031,Invalid,Post no Credit,post_no_credit
+560109382345,0087,Invalid,Dormant,dormant_account
+0084710066,0076,Valid,Valid,
+2490034918,0041,Valid,Valid,
+8722684981,0076,Valid,Valid,
+92559417069,0076,Valid,Valid,
+551100539560,0072,Valid,Valid,
+48341147833,0054,Invalid,Post no Credit,post_no_credit
+53040508516,0041,Invalid,Invalid,invalid_account
+64839826495,0023,Invalid,Invalid,invalid_account
+59092762320,0011,Valid,Valid,
+345925171,0012,Invalid,Invalid,wrong_length
+38651469765,0023,Valid,Valid,
+88986961651,0023,Invalid,Post no Credit,post_no_credit
+65935472866,0063,Valid,Valid,
+87605675350,9842,Invalid,Invalid,invalid_bank
+0529468727,0054,Valid,Valid,
+0285899915,0087,Valid,Valid,
+2992531672,0076,Invalid,Post no Credit,post_no_credit
+6271631739,0031,Valid,Valid,
+705529418548,0012,Invalid,Invalid,invalid_account
+757542669228,0087,Valid,Valid,
+2515311267,9791,Invalid,Invalid,invalid_bank
+612136192196,0054,Valid,Valid,
+9010634385,0076,Valid,Valid,
+7283751910,0031,Valid,Valid,
+1518384847,0012,Valid,Valid,
+1000118202,0023,Invalid,Post no Credit,post_no_credit
+126715083606,0012,Valid,Valid,
+4140130067,0041,Invalid,Dormant,dormant_account
+302848855759,0041,Invalid,Dormant,dormant_account
+3374639092,9618,Invalid,Invalid,invalid_bank
+20979852882,0076,Invalid,Dormant,dormant_account
+35795162510,0054,Valid,Valid,
+743950038897,0023,Invalid,Invalid,invalid_account
+961603219818,0063,Valid,Valid,
+33513626022,0054,Valid,Valid,
+5858568306,0087,Valid,Valid,
+4306576217,0012,Invalid,Invalid,invalid_account
+3269815370,0011,Valid,Valid,
+3675130714,0041,Valid,Valid,
+84908563102,0011,Valid,Valid,
+4766653370,0063,Valid,Valid,
+770538437425,0012,Valid,Valid,
+629382080015,0011,Valid,Valid,
+95187904748,0072,Valid,Valid,
+1461216771,0012,Valid,Valid,
+0474808557,0076,Valid,Valid,
+22315449897,0076,Invalid,Post no Credit,post_no_credit
+07213904028,0031,Invalid,Post no Credit,post_no_credit
+4795981369,0054,Valid,Valid,
+754019655156,0063,Valid,Valid,
+18691482954,0054,Valid,Valid,
+937795445537,0031,Valid,Valid,
+745724365737,0072,Valid,Valid,
+24678577992,0031,Valid,Valid,
+563101122353,0011,Valid,Valid,
+4705483169,0076,Invalid,Dormant,dormant_account
+6ZG09WEAQUS,0076,Invalid,Invalid,non_numeric
+57839704631,0072,Valid,Valid,
+38585404289,0087,Valid,Valid,
+39205107587,0011,Valid,Valid,
+0756615576,0076,Invalid,Post no Credit,post_no_credit
+928091851614,0087,Valid,Valid,
+649780810190,0041,Invalid,Dormant,dormant_account
+26587582697,0072,Valid,Valid,
+685039616890,0072,Valid,Valid,
+60667986300,0012,Valid,Valid,
+57235200660,0072,Invalid,Post no Credit,post_no_credit
+991934487942,0063,Valid,Valid,
+842258260468,0023,Valid,Valid,
+1951606207,0076,Valid,Valid,
+4450775944,0031,Invalid,Dormant,dormant_account
+2379862080,0063,Valid,Valid,
+57034837917,0041,Valid,Valid,
+15NWULN0EBXZ,0023,Invalid,Invalid,non_numeric
+62984162097,0041,Invalid,Dormant,dormant_account
+058808795662,0054,Valid,Valid,
+9483277502,0054,Valid,Valid,
+353192681455,0072,Valid,Valid,
+4190470099,0023,Invalid,Invalid,invalid_account
+06627383835,0054,Valid,Valid,
+048452194094,0072,Valid,Valid,
+412171668645,0063,Invalid,Dormant,dormant_account
+48882217828,0076,Valid,Valid,
+4087141190,0011,Invalid,Dormant,dormant_account
+8954329671,0011,Valid,Valid,
+163751066950,0011,Valid,Valid,
+4250243731,0011,Valid,Valid,
+883083762663,0087,Valid,Valid,
+906622202500,0072,Valid,Valid,
+2334682294,0012,Valid,Valid,
+9207062744,0072,Valid,Valid,
+1119260270,0054,Valid,Valid,
+02886680998,0031,Valid,Valid,
+24421782238,0076,Valid,Valid,
+51427687871,0031,Valid,Valid,
+4464769286,0012,Valid,Valid,
+237864238040,0076,Invalid,Post no Credit,post_no_credit
+17962061930,0023,Valid,Valid,
+4126161091,0011,Valid,Valid,
+15942310267,0072,Valid,Valid,
+8666092639,0087,Valid,Valid,
+866374422253,0076,Invalid,Post no Credit,post_no_credit
+32045964972,0041,Valid,Valid,
+5161611661,0011,Valid,Valid,
+FGKW09LD7XX,0087,Invalid,Invalid,non_numeric
+1078484088,0054,Valid,Valid,
+76815969856,0023,Valid,Valid,
+898150887756,0041,Valid,Valid,
+947557614938,0011,Valid,Valid,
+6739353425,0087,Invalid,Dormant,dormant_account
+85116453626,0054,Invalid,Post no Credit,post_no_credit
+7181768496,0011,Valid,Valid,
+35230638291,0012,Valid,Valid,
+6932149396,0076,Valid,Valid,
+465069146065,0072,Invalid,Dormant,dormant_account
+393677923169,0076,Valid,Valid,
+67891816249,0054,Valid,Valid,
+361884471134,0063,Valid,Valid,
+634505927976,0063,Valid,Valid,
+06345821800,0072,Invalid,Post no Credit,post_no_credit
+4345427571,0041,Valid,Valid,
+602264265340,0072,Invalid,Post no Credit,post_no_credit
+55777019822,0087,Invalid,Post no Credit,post_no_credit
+MDA0692F1P,0087,Invalid,Invalid,non_numeric
+92087381024,0087,Invalid,Post no Credit,post_no_credit
+48328036071,0054,Valid,Valid,
+70308452801,0054,Valid,Valid,
+932366950353,0031,Invalid,Post no Credit,post_no_credit
+588040219146,0072,Valid,Valid,
+47280329948,0012,Invalid,Post no Credit,post_no_credit
+89918574357,0023,Valid,Valid,
+6673738431,0011,Invalid,Dormant,dormant_account
+70432697935,0076,Valid,Valid,
+0342886789,0041,Valid,Valid,
+05580566270,0087,Invalid,Post no Credit,post_no_credit
+033771512834,9338,Invalid,Invalid,invalid_bank
+61940846688,0023,Invalid,Invalid,invalid_account
+0052911566,0023,Invalid,Dormant,dormant_account
+4498328650,0072,Valid,Valid,
+69243185565,0023,Valid,Valid,
+010983722809,0031,Valid,Valid,
+4038434081,0054,Valid,Valid,
+1788920754,0063,Invalid,Dormant,dormant_account
+712549679232,0031,Invalid,Post no Credit,post_no_credit
+8136160478,0041,Valid,Valid,
+1011930081,0031,Valid,Valid,
+479656886287,0054,Valid,Valid,
+694471954876,0011,Valid,Valid,
+211508410515,0087,Valid,Valid,
+7369127541,9486,Invalid,Invalid,invalid_bank
+8911278136,0031,Valid,Valid,
+924682925541,0072,Valid,Valid,
+1308539231,0041,Valid,Valid,
+167508647867,0072,Valid,Valid,
+7461028555,0054,Valid,Valid,
+163134547727,0012,Invalid,Post no Credit,post_no_credit
+603088978260,0011,Valid,Valid,
+14713080369,0072,Valid,Valid,
+975035006892,9281,Invalid,Invalid,invalid_bank
+6711697956,0023,Valid,Valid,
+28241241498,0072,Valid,Valid,
+21013278046,0023,Invalid,Dormant,dormant_account
+9316798105,0011,Invalid,Dormant,dormant_account
+0906915621,0023,Valid,Valid,
+8301370689,0063,Valid,Valid,
+796814035972,0011,Valid,Valid,
+5083208844,0063,Invalid,Dormant,dormant_account
+0697242710,0011,Valid,Valid,
+7665457175,0012,Invalid,Invalid,invalid_account
+09439432435,0076,Valid,Valid,
+46564376165,0072,Valid,Valid,
+741605478108,0054,Valid,Valid,
+991504333679,0041,Valid,Valid,
+808239392698,0023,Valid,Valid,
+588687122451,0023,Valid,Valid,
+90460368138,0076,Invalid,Dormant,dormant_account
+3351923361069,0031,Invalid,Invalid,wrong_length
+8910314546,0031,Valid,Valid,
+359522656480,0087,Valid,Valid,
+9283129081,0012,Invalid,Post no Credit,post_no_credit
+5252200523,0041,Valid,Valid,
+52664430237,0087,Valid,Valid,
+413431269210,0054,Valid,Valid,
+4428669286,0011,Valid,Valid,
+6986705577,0023,Invalid,Dormant,dormant_account
+96299994487,0087,Invalid,Dormant,dormant_account
+85091697658,0072,Valid,Valid,
+7487139510,0011,Invalid,Dormant,dormant_account
+834114580690,0054,Invalid,Post no Credit,post_no_credit
+3657185930,0054,Invalid,Post no Credit,post_no_credit
+4722657425,0076,Valid,Valid,
+33005988876,0041,Valid,Valid,
+1136139926,0012,Valid,Valid,
+1159916147,0031,Valid,Valid,
+10072737,0031,Invalid,Invalid,wrong_length
+105591581230,0041,Valid,Valid,
+0075897365,0011,Valid,Valid,
+335186701897,0076,Valid,Valid,
+13165823007,0023,Valid,Valid,
+9460315532,0054,Valid,Valid,
+2144277505,0076,Invalid,Dormant,dormant_account
+179571398630,0012,Valid,Valid,
+45444142480,0011,Valid,Valid,
+9987254926,0076,Valid,Valid,
+9935322705,0087,Valid,Valid,
+7915250617,0087,Valid,Valid,
+47241610070,0054,Valid,Valid,
+5606037699,0054,Invalid,Dormant,dormant_account
+78083216368,0012,Invalid,Dormant,dormant_account
+5597966992,0063,Invalid,Invalid,invalid_account
+94337182973,0041,Invalid,Dormant,dormant_account
+14884337862,0031,Valid,Valid,
+37447264508,0063,Invalid,Post no Credit,post_no_credit
+99770535469,0041,Valid,Valid,
+436790621317,0011,Valid,Valid,
+783208386923,0072,Invalid,Post no Credit,post_no_credit
+03608443694,0087,Valid,Valid,
+9047327792,0023,Valid,Valid,
+9895493185,0041,Valid,Valid,
+65648785411,0072,Valid,Valid,
+93559283260,0063,Valid,Valid,
+243833685456,0072,Valid,Valid,
+265672082293,0041,Valid,Valid,
+6650643067,0054,Valid,Valid,
+293163744419,0031,Valid,Valid,
+5466526174,0012,Invalid,Post no Credit,post_no_credit
+463628613090,0011,Valid,Valid,
+4269460442,0012,Invalid,Dormant,dormant_account
+649609526113,0023,Valid,Valid,
+28383835237,0041,Valid,Valid,
+14223409768,9934,Invalid,Invalid,invalid_bank
+528606513374,0023,Valid,Valid,
+5252015202,0072,Invalid,Dormant,dormant_account
+2374435273,0072,Valid,Valid,
+255903567,0011,Invalid,Invalid,wrong_length
+307162333661,0076,Invalid,Dormant,dormant_account
+0981493649,0076,Valid,Valid,
+17346458243,0072,Valid,Valid,
+97666046385,0011,Valid,Valid,
+217814161352,0041,Valid,Valid,
+339652865751,0041,Invalid,Post no Credit,post_no_credit
+31359769295,0054,Valid,Valid,
+38GRJVU3TRJQ,0011,Invalid,Invalid,non_numeric
+03851236757,0063,Valid,Valid,
+22650321597,0031,Valid,Valid,
+80095169608,0063,Valid,Valid,
+521810650939,0012,Valid,Valid,
+81079833661,0012,Valid,Valid,
+88614806842,0063,Valid,Valid,
+72585416495,0063,Valid,Valid,
+830225382346,0011,Valid,Valid,
+4620315546,0041,Valid,Valid,
+051327597416,0041,Valid,Valid,
+9162043047,0031,Valid,Valid,
+1260838244,0087,Valid,Valid,
+1659313744,0041,Valid,Valid,
+83736195748,0031,Valid,Valid,
+7134741041,0012,Valid,Valid,
+460898658202,0087,Valid,Valid,
+30237196691,0031,Valid,Valid,
+7876969558,0054,Valid,Valid,
+34561569542,0012,Invalid,Post no Credit,post_no_credit
+5044113443,0023,Valid,Valid,
+6928607370,9938,Invalid,Invalid,invalid_bank
+209471911674,0011,Valid,Valid,
+94018075439,0054,Valid,Valid,
+97121691429,0063,Valid,Valid,
+10373275038,0072,Valid,Valid,
+097242628829,0072,Valid,Valid,
+3326350772,0063,Valid,Valid,
+33308913140,0063,Valid,Valid,
+1870787581,0023,Valid,Valid,
+096599494070,0012,Valid,Valid,
+8026269327,0076,Valid,Valid,
+4010393075,0054,Invalid,Dormant,dormant_account
+930338378611,0054,Valid,Valid,
+35626970042,0023,Valid,Valid,
+55760270277,0031,Invalid,Post no Credit,post_no_credit
+4422108576,0012,Valid,Valid,
+43054737730235,0041,Invalid,Invalid,wrong_length
+292879800656,0041,Valid,Valid,
+07345547153,0076,Valid,Valid,
+175169685386,0041,Valid,Valid,
+906732420365,0023,Valid,Valid,
+0686286580,0023,Valid,Valid,
+5063322571,0023,Valid,Valid,
+836013951861,0041,Valid,Valid,
+648457199328,0031,Valid,Valid,
+252507394679,0054,Valid,Valid,
+72546239581,0023,Invalid,Post no Credit,post_no_credit
+250208215245,0041,Valid,Valid,
+2227562713,0076,Invalid,Dormant,dormant_account
+5071628568,0072,Valid,Valid,
+768235724689,0072,Invalid,Dormant,dormant_account
+842676425432,0063,Valid,Valid,
+DTEDZZ294VW5,0023,Invalid,Invalid,non_numeric
+2449879060,0023,Valid,Valid,
+5583879847,0063,Invalid,Post no Credit,post_no_credit
+189465690375,0054,Valid,Valid,
+527915561569,0011,Valid,Valid,
+3170622466,0076,Valid,Valid,
+6816819211,0087,Valid,Valid,
+12681877067,0041,Valid,Valid,
+6697354645,0072,Valid,Valid,
+263311822995,0076,Valid,Valid,
+07263274637,0023,Valid,Valid,
+2199971474,0054,Valid,Valid,
+12339689282,0012,Valid,Valid,
+716325795283,0012,Invalid,Post no Credit,post_no_credit
+8532742281,0072,Valid,Valid,
+91376264909,0012,Valid,Valid,
+285816457928,0031,Invalid,Post no Credit,post_no_credit
+933123289877,0063,Invalid,Post no Credit,post_no_credit
+227247443408,0054,Valid,Valid,
+43014139719,0054,Valid,Valid,
+852237167754,0012,Valid,Valid,
+9477762046,0011,Invalid,Dormant,dormant_account
+1775467445,0041,Valid,Valid,
+2703988837,0041,Invalid,Post no Credit,post_no_credit
+3239977348,0031,Valid,Valid,
+9825190851,0087,Invalid,Post no Credit,post_no_credit
+21951787914,0054,Valid,Valid,
+246384544348,0011,Invalid,Dormant,dormant_account
+3272407975,0012,Valid,Valid,
+356493436742,0054,Valid,Valid,
+82578983621,0054,Valid,Valid,
+87481820014,0087,Valid,Valid,
+072690227887,0041,Valid,Valid,
+0703844788,0063,Invalid,Post no Credit,post_no_credit
+425490649395,0011,Valid,Valid,
+43028110782,0011,Valid,Valid,
+2757513705,0072,Valid,Valid,
+4178876061,0076,Valid,Valid,
+4113602521,0054,Valid,Valid,
+367256818908,0041,Invalid,Post no Credit,post_no_credit
+4246116957,0011,Valid,Valid,
+17106506329,0011,Valid,Valid,
+985119479208,0072,Valid,Valid,
+0563601563,0031,Valid,Valid,
+08172708117,0054,Valid,Valid,
+2377166365,0012,Invalid,Post no Credit,post_no_credit
+26262345367,0011,Valid,Valid,
+893267233818,0054,Valid,Valid,
+9165521846,0076,Valid,Valid,
+94003535009,0072,Valid,Valid,
+5825992864,0087,Valid,Valid,
+CR46076VC6U6,0072,Invalid,Invalid,non_numeric
+29046055025,0076,Invalid,Dormant,dormant_account
+116361551468,0076,Valid,Valid,
+84510861244,0076,Valid,Valid,
+318317659090,0023,Invalid,Invalid,invalid_account
+5393438924,0054,Valid,Valid,
+895130540647,0072,Valid,Valid,
+064362733128,0011,Invalid,Invalid,invalid_account
+39591937559,9374,Invalid,Invalid,invalid_bank
+07216158131,0072,Valid,Valid,
+154919744747,0063,Valid,Valid,
+07994825291,0063,Valid,Valid,
+2871536148,0054,Valid,Valid,
+77159692454,0054,Valid,Valid,
+6262705148,0054,Invalid,Dormant,dormant_account
+890351028426,0012,Valid,Valid,
+508679730289,0011,Valid,Valid,
+53809624121,0012,Invalid,Post no Credit,post_no_credit
+5727461860,0011,Invalid,Dormant,dormant_account
+01341079633,0076,Valid,Valid,
+908646637936,0063,Valid,Valid,
+607562659668,0087,Valid,Valid,
+175286846102,0041,Valid,Valid,
+62111150802,0031,Valid,Valid,
+196589535999,0087,Valid,Valid,
+61252953629,0012,Valid,Valid,
+413010170438,0031,Valid,Valid,
+728034427044,0031,Valid,Valid,
+06174581690,0072,Valid,Valid,
+25478615608,0023,Valid,Valid,
+181032882205,0041,Valid,Valid,
+13278275180,0054,Valid,Valid,
+94387443092,0063,Valid,Valid,
+442003702123,0087,Valid,Valid,
+107996083139,0011,Valid,Valid,
+6137539238,0087,Valid,Valid,
+3403154597,0011,Invalid,Post no Credit,post_no_credit
+157348253612,0054,Valid,Valid,
+6914313019,0076,Valid,Valid,
+9556812919,0063,Invalid,Dormant,dormant_account
+9648811968,0076,Valid,Valid,
+34907340734,0072,Valid,Valid,
+3122037867,0072,Valid,Valid,
+909850770076,0087,Valid,Valid,
+14369169028,0063,Valid,Valid,
+822106097541,0041,Valid,Valid,
+5091493647,0012,Valid,Valid,
+4538902404,0072,Valid,Valid,
+1325726084,0076,Invalid,Dormant,dormant_account
+032553358992,0087,Valid,Valid,
+151320460054,0041,Valid,Valid,
+8389860118,0041,Valid,Valid,
+4409136684,0011,Valid,Valid,
+964524461890,0063,Valid,Valid,
+077034186430,0072,Valid,Valid,
+51049923420,0087,Valid,Valid,
+96269527017,0076,Valid,Valid,
+608725446882,0063,Valid,Valid,
+930341626536,0087,Valid,Valid,
+900958726686,0054,Valid,Valid,
+31711381599,0072,Valid,Valid,
+50310610208,0041,Valid,Valid,
+69338507355,0076,Valid,Valid,
+83446501850,0031,Valid,Valid,
+696490719838,0072,Invalid,Post no Credit,post_no_credit
+149165317026,0041,Invalid,Post no Credit,post_no_credit
+59735797782,0072,Invalid,Dormant,dormant_account
+24297745525067,0012,Invalid,Invalid,wrong_length
+57352994396,0031,Valid,Valid,
+99112181882,0087,Valid,Valid,
+46201534915,0011,Invalid,Invalid,invalid_account
+0369290509,0012,Valid,Valid,
+6839185584,0031,Valid,Valid,
+160592055619,0011,Valid,Valid,
+527518430107,0072,Valid,Valid,
+296038794780,0054,Valid,Valid,
+929734624684,0041,Invalid,Post no Credit,post_no_credit
+1074591517,0041,Valid,Valid,
+6904547577,0054,Valid,Valid,
+4908635910,0087,Valid,Valid,
+7456242758,0041,Valid,Valid,
+50266369700,0012,Valid,Valid,
+45805694494,0063,Valid,Valid,
+235028684316,0023,Valid,Valid,
+135494528657,0023,Valid,Valid,
+935945257045,0072,Valid,Valid,
+957982989506,0054,Valid,Valid,
+395182123065,0031,Valid,Valid,
+20974443007,0087,Valid,Valid,
+44529069433,0012,Invalid,Dormant,dormant_account
+612802379936,0087,Valid,Valid,
+9661422172,0076,Valid,Valid,
+28995656344,0031,Valid,Valid,
+8921607497,0076,Valid,Valid,
+816399130921,0072,Valid,Valid,
+839114047519,0041,Invalid,Post no Credit,post_no_credit
+4457327577,0063,Valid,Valid,
+539643911416,0063,Valid,Valid,
+22322526936,0087,Valid,Valid,
+48233545148,0054,Valid,Valid,
+5504019493,0041,Valid,Valid,
+2116316725,0072,Valid,Valid,
+4273540587,0054,Valid,Valid,
+36719117717,0012,Valid,Valid,
+601721954678,0041,Valid,Valid,
+605674466301,0076,Valid,Valid,
+384442350830,0076,Valid,Valid,
+636444542748,0011,Valid,Valid,
+5183253959,0041,Valid,Valid,
+782594925016,0023,Invalid,Dormant,dormant_account
+65292679221,0072,Valid,Valid,
+692805042977,0041,Invalid,Post no Credit,post_no_credit
+627799618628,0023,Invalid,Dormant,dormant_account
+93657323222,0072,Invalid,Dormant,dormant_account
+685600789010,0054,Valid,Valid,
+P0JYR4OQ8S,0072,Invalid,Invalid,non_numeric
+893279218374,0031,Invalid,Post no Credit,post_no_credit
+68166757009,0054,Invalid,Dormant,dormant_account
+790754490393,0012,Invalid,Invalid,invalid_account
+638985476778,0076,Valid,Valid,
+7787965978,0087,Valid,Valid,
+2372777401,0012,Invalid,Post no Credit,post_no_credit
+0123795541,0041,Valid,Valid,
+546035898322,0072,Valid,Valid,
+2285352376,0054,Valid,Valid,
+7149822247,0076,Valid,Valid,
+099803175516,0076,Invalid,Dormant,dormant_account
+936650168404,0011,Valid,Valid,
+575647641381,0063,Valid,Valid,
+085517381320,0023,Valid,Valid,
+46317869142,0054,Invalid,Dormant,dormant_account
+15324692548,0087,Valid,Valid,
+5141670257,0087,Valid,Valid,
+0378576131,0011,Valid,Valid,
+51334360808,0054,Valid,Valid,
+3766827535,0012,Valid,Valid,
+337525515241,0031,Valid,Valid,
+1902314414,0041,Valid,Valid,
+35050496950,0087,Valid,Valid,
+87642047944,0011,Invalid,Dormant,dormant_account
+593853355537,0076,Valid,Valid,
+22896813449,0054,Valid,Valid,
+7940532624,0023,Invalid,Invalid,invalid_account
+31570451212,0023,Invalid,Dormant,dormant_account
+0447000502,0072,Valid,Valid,
+60723201640,0041,Invalid,Post no Credit,post_no_credit
+597349774648,0041,Valid,Valid,
+0427646054,0041,Invalid,Invalid,invalid_account
+9792132515,0072,Invalid,Dormant,dormant_account
+15178986711,0076,Valid,Valid,
+3759576059,0041,Invalid,Post no Credit,post_no_credit
+09496361924,9753,Invalid,Invalid,invalid_bank
+2871845270,0063,Valid,Valid,
+48793899339,0011,Valid,Valid,
+956724876319,0054,Valid,Valid,
+18633312862,0072,Invalid,Post no Credit,post_no_credit
+33392398592,0072,Invalid,Post no Credit,post_no_credit
+04898478513,0012,Valid,Valid,
+2721227565,0087,Invalid,Dormant,dormant_account
+125867674486,0012,Valid,Valid,
+057473602294,0076,Invalid,Dormant,dormant_account
+0281107027,0063,Valid,Valid,
+74RXKTBBLEF,0023,Invalid,Invalid,non_numeric
+848899370541,0012,Valid,Valid,
+422134174620,0031,Valid,Valid,
+30552680593,0076,Valid,Valid,
+5803637699,0087,Valid,Valid,
+563393149473,0041,Invalid,Dormant,dormant_account
+032113768154,9284,Invalid,Invalid,invalid_bank
+93255417679,0012,Valid,Valid,
+271561285405,0054,Valid,Valid,
+9676144621,0076,Valid,Valid,
+50529657577,0031,Valid,Valid,
+38001825011,0054,Valid,Valid,
+521013138494,0023,Invalid,Dormant,dormant_account
+05346898405,0072,Valid,Valid,
+0372321911,0087,Valid,Valid,
+825800041052,0087,Invalid,Post no Credit,post_no_credit
+1032904823,0031,Valid,Valid,
+GHXSHVKJ3RW5,0012,Invalid,Invalid,non_numeric
+4127623496,0072,Invalid,Post no Credit,post_no_credit
+0243163602,0041,Valid,Valid,
+88361578753,0041,Valid,Valid,
+153308322590,0076,Valid,Valid,
+6658758918,0054,Invalid,Dormant,dormant_account
+717590227128,0041,Valid,Valid,
+5418446512,0023,Valid,Valid,
+812497406169,0012,Valid,Valid,
+34109475416,0054,Valid,Valid,
+84042821309,0041,Valid,Valid,
+338061909703,0031,Valid,Valid,
+4735369324,0041,Valid,Valid,
+2005342337,0063,Valid,Valid,
+325250626170,0076,Invalid,Dormant,dormant_account
+857509841102,0087,Valid,Valid,
+999915760961,0011,Valid,Valid,
+031441835520,0031,Valid,Valid,
+53511346433,0023,Invalid,Dormant,dormant_account
+45831718467,0063,Valid,Valid,
+4279464200,0031,Valid,Valid,
+60941166971,0031,Invalid,Dormant,dormant_account
+457701779459,0063,Valid,Valid,
+01820709208,0012,Valid,Valid,
+1831857861,0011,Valid,Valid,
+96683897020,0012,Valid,Valid,
+758644190150,0063,Valid,Valid,
+32786636677,0087,Valid,Valid,
+264671905489,0076,Valid,Valid,
+7POCG0BHUKTP,0076,Invalid,Invalid,non_numeric
+691844632493,0031,Valid,Valid,
+507958941,0031,Invalid,Invalid,wrong_length
+5498948983,0031,Invalid,Invalid,invalid_account
+0014753310,0087,Valid,Valid,
+6563494663,0031,Valid,Valid,
+5764450418,0076,Valid,Valid,
+9101386443,0054,Valid,Valid,
+1853669581,0054,Valid,Valid,
+79392467,0054,Invalid,Invalid,wrong_length
+5810782297,0041,Valid,Valid,
+1459261044,0041,Invalid,Dormant,dormant_account
+3185091719,0072,Valid,Valid,
+037839630578,0011,Invalid,Dormant,dormant_account
+0485561350,0072,Valid,Valid,
+75677773031,0063,Valid,Valid,
+2167631736,0012,Valid,Valid,
+8980925831,0087,Valid,Valid,
+2722034337,0031,Valid,Valid,
+81345505101,0031,Valid,Valid,
+508572363354,0063,Valid,Valid,
+5366087066,0012,Valid,Valid,
+580363863812,0063,Invalid,Post no Credit,post_no_credit
+8687088617,0011,Valid,Valid,
+4476921223,0063,Valid,Valid,
+1225310293,0087,Valid,Valid,
+678268120307,0023,Valid,Valid,
+39255736590,0012,Valid,Valid,
+08016430575,0054,Valid,Valid,
+80057296442,0072,Valid,Valid,
+0197616921,0063,Valid,Valid,
+2476908424,0076,Valid,Valid,
+86229504773,0063,Valid,Valid,
+572060435656,0031,Invalid,Post no Credit,post_no_credit
+833147683800,0063,Invalid,Dormant,dormant_account
+994332121840,0031,Valid,Valid,
+2699334882,0031,Valid,Valid,
+9623839168,0023,Invalid,Post no Credit,post_no_credit
+486569478507,0076,Valid,Valid,
+49819164955,0012,Invalid,Invalid,invalid_account
+4963812983,0041,Valid,Valid,
+2443763036,0087,Valid,Valid,
+89396032605,0087,Valid,Valid,
+9600338724,0012,Valid,Valid,
